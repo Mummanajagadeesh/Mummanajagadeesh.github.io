@@ -9036,8 +9036,15 @@ The waveform visualizes the same transitions observed in the output table. Key p
       <content>&lt;![CDATA[<h5 id="hello-world-im-jagadeesh">Hello World! I&rsquo;m Jagadeesh</h5>
 <p>I&rsquo;m from Visakhapatnam, Andhra Pradesh, and currently a sophomore at NIT Calicut, studying Electronics and Communication Engineering.</p>
 <p>I&rsquo;m passionate about robotics and AI, constantly exploring electronics, microcontrollers, and everything that makes robots tick. I love collaborating with like-minded individuals, especially in robotics, AI, and embedded systems.</p>
-<p>I work on all kinds of projects—driven purely by curiosity, independent of prior experience. My interests span Verilog, digital circuits, robotic simulations, and real-world robotics projects (including those in my college&rsquo;s Mechatronics Lab).
-MORE ON MY PROJECTS PAGE :)</p>
+<p>I work on all kinds of projects—driven purely by curiosity, independent of prior experience. My interests span digital and analog circuits, robotic simulations, and real-world robotics projects (including those in my college&rsquo;s Mechatronics Lab).
+More on my <a href="../projects"
+
+
+
+ 
+
+
+>projects</a> page :)</p>
 <p>This site serves as a visual portfolio—because a 1-2 page résumé can&rsquo;t fully capture my creativity.</p>
 <p>Check out my projects on GitHub, and if you&rsquo;re interested in collaborating or just chatting about tech, feel free to reach out!</p>
 <h5 id="my-blog">My Blog</h5>
