@@ -1,0 +1,251 @@
+[33mcommit cce9ed3b817ae5d2bc5b47096ea98bb744e6a502[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Mon Feb 24 19:02:41 2025 +0530
+
+    chore: added pidc project doc + moravec in improve
+
+[33mcommit 3464bd6e836525abeefe1898523d5c12f635ff63[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Mon Feb 24 12:33:46 2025 +0530
+
+    chore: added latex support + new post
+
+[33mcommit 57680636c9edc7682736f3075dcb65b6a2f558c6[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Sun Feb 23 16:32:10 2025 +0530
+
+    fix: removed license plate recog in improve
+
+[33mcommit e6c7f868e704d6e2af005e87e1554fe2f66c6792[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Sat Feb 22 13:58:09 2025 +0530
+
+    chore: usual fixes"
+
+[33mcommit 49d188f5ad90c2509441e3dd956f2833931b0ef9[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Fri Feb 21 23:46:17 2025 +0530
+
+    chore: changed author image name
+
+[33mcommit 96f6ac5987f914fd9d15d001fdc4b72360a6100c[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Fri Feb 21 23:40:08 2025 +0530
+
+    chore: higlighted keywords in improve docs
+
+[33mcommit 58f3191b6c6749eca69551e2599e63fb87a7d767[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Fri Feb 21 23:34:08 2025 +0530
+
+    chore: improved docs for improve
+
+[33mcommit 21ddfe2392f900a8b5e3be266473a0740044cdb4[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Fri Feb 21 23:14:44 2025 +0530
+
+    fix: removed heading line for improve images
+
+[33mcommit 54d3a2a1fad28e639dc149d7efb5da3eafbb3562[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Fri Feb 21 23:11:42 2025 +0530
+
+    chore: added images for improve|rubec + other minor fixes
+
+[33mcommit 189b0f8f0933dace5b0f70662b883486a058c7b6[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Fri Feb 21 18:46:41 2025 +0530
+
+    chore: small content changes to hw post
+
+[33mcommit 5cdbca7708c0fe631750094f4f0ff3fafce5a2fe[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Wed Feb 19 12:36:08 2025 +0530
+
+    chore: added photo in dummy page
+
+[33mcommit c27947b5b944c14e5c1b18b1dce6e799c47f3379[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Tue Feb 18 22:38:46 2025 +0530
+
+    chore: removed dropdowns and creaated a sep page
+
+[33mcommit fcc50089461d5fb1e3c3cf49f79889b72a591709[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Tue Feb 18 13:10:24 2025 +0530
+
+    chore: changed typing text on main page
+
+[33mcommit 1f03534673543e7ef527ea60770c089fb5be7a26[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Mon Feb 17 23:38:30 2025 +0530
+
+    fix: redirecting links for labels
+
+[33mcommit 3b6296917b321cc7417d66e2e96d21282dee5364[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Mon Feb 17 23:35:20 2025 +0530
+
+    fix: clickable labels on posts, added extra item on blog dropdown
+
+[33mcommit 64c07dbf1207f4aef5aedef8bb52e45bdeb4b8a7[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Mon Feb 17 22:28:01 2025 +0530
+
+    fix: content in personal ach
+
+[33mcommit ed9c9545893e8b7192f688c6bf908f92c2d3c60c[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Mon Feb 17 22:21:55 2025 +0530
+
+    chore: dropdowns added
+
+[33mcommit a844e0ed64876740352dffcdd11832d1834e2dea[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Mon Feb 17 18:11:46 2025 +0530
+
+    chore: corrupted author img path
+
+[33mcommit 1f96146f5694af39e905a873925a26872838935a[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Mon Feb 17 18:07:21 2025 +0530
+
+    chore: optimised pages for mobile
+
+[33mcommit 43cf119cf90dc533cb2109cea0cf77203ff0368e[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Mon Feb 17 17:38:41 2025 +0530
+
+    chore: changed logo
+
+[33mcommit d0b19d76c4c20a9b9d1b1196ca1d1c33e920ddd8[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Mon Feb 17 13:26:57 2025 +0530
+
+    chore: pp bottom line changed
+
+[33mcommit 8aad47e000a88fa389ab69b2bb0828b597d30503[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Mon Feb 17 13:21:30 2025 +0530
+
+    chore: privacy-policy changed
+
+[33mcommit 4446bb580a13572146bd641ae67aecf01b17abfd[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Mon Feb 17 12:31:59 2025 +0530
+
+    fix: changed color of .
+
+[33mcommit 8409eff3e8d69de6148df5bfddc7a8455ba235bc[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Mon Feb 17 12:26:02 2025 +0530
+
+    fix: size of title_small
+
+[33mcommit 3e85b20b68927c31f4c0fb48e79fc24fd06a3d24[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Mon Feb 17 12:14:16 2025 +0530
+
+    chore: logo+banner+homepage_outlook changed
+
+[33mcommit dab31c36734109b3f5d34346eca4360dbfb1ce64[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Sun Feb 16 09:25:16 2025 +0530
+
+    fix: Solo -> SOLO
+
+[33mcommit 406415444a43cfdab8337464ad83e35441c80007[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Sun Feb 16 02:36:38 2025 +0530
+
+    try: labels on posts
+
+[33mcommit 23d9007fec668a471f2f1395b754c086dc9e1a89[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Sun Feb 16 02:02:38 2025 +0530
+
+    fix: ML tags
+
+[33mcommit 19b27d329c9098601391f2fef039f3138a4d75ee[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Sun Feb 16 01:59:10 2025 +0530
+
+    chore: added pcb-fault-detec
+
+[33mcommit 4011ac5ee7fcdfb455af1cb2d66c75d32031393a[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Sun Feb 16 00:47:25 2025 +0530
+
+    chore: changed preloader + font back to def
+
+[33mcommit 0424e99f1c0992ca0713814f31fe9d603629e20a[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Sat Feb 15 16:05:51 2025 +0530
+
+    chore: changed preloader
+
+[33mcommit dea4caedc1f97465cfeeddbeb681b05473eb2ea6[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Sat Feb 15 15:39:32 2025 +0530
+
+    fix: border colour
+
+[33mcommit 51f041b08ef8df7ffc5beebe103d2d187a39f9f1[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Sat Feb 15 14:59:56 2025 +0530
+
+    chore: new posts added + fixed post width
+
+[33mcommit a74a874a830fa3537a5cf610bc1ae30045a2360b[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Sat Feb 15 12:44:27 2025 +0530
+
+    chore: font back to norm
+
+[33mcommit 939b1c5c43e140961ca4bdb60a8cf2d141ec5d37[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Sat Feb 15 12:41:35 2025 +0530
+
+    try: font change
+
+[33mcommit 61cab2cd56a9618009eaec3c2996245bdb5e8a2e[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Sat Feb 15 02:50:12 2025 +0530
+
+    fix: space bw edu cards
+
+[33mcommit 4e6d49fafed4b5af7c6d0f1c89d365c4bb6e6883[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Sat Feb 15 02:44:08 2025 +0530
+
+    chore: back to org font
+
+[33mcommit 9126a90db3705700674dd04dc7b9d7aebea8fa8f[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Sat Feb 15 02:27:03 2025 +0530
+
+    try: changing variables scss
+
+[33mcommit 59ad7481eac3f7018b64eb737dc743e655937779[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Sat Feb 15 02:20:08 2025 +0530
+
+    try: fixing scss contrast ratio
+
+[33mcommit 0fee2f84ada2ee5a8772de9e1164949e6b677db6[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Sat Feb 15 01:53:05 2025 +0530
+
+    try: scss updated
+
+[33mcommit 98ddadaae960377c6d81e39db3ffdbd42a712036[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Fri Feb 14 22:12:30 2025 +0530
+
+    chore: fic font
+
+[33mcommit 3d1b6504762b7808f27a859421ddf855f11b19d2[m
+Author: MummanaJagadeesh97 <mummanajagadeesh97@gmail.com>
+Date:   Fri Feb 14 22:09:16 2025 +0530
+
+    chore: changed theme of site
