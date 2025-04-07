@@ -1,12 +1,15 @@
 function FindProxyForURL(url, host) {
+    url = url.toLowerCase();
+  
     if (
       shExpMatch(url, "*linkedin.com/in/jagadeeesh-mummana*") ||
-      shExpMatch(url, "*github.com/Mummanajagadeesh*") ||
+      shExpMatch(url, "*github.com/mummanajagadeesh") ||
       shExpMatch(url, "*mummanajagadeesh.github.io*") ||
-      shExpMatch(url, "*youtube.com/@M_J_9_7*")
+      shExpMatch(url, "*youtube.com/@m_j_9_7*")
     ) {
-      return "PROXY 127.0.0.1:9999"; // Blocks those URLs
+      return "PROXY 127.0.0.1:9999";
     }
-    return "DIRECT"; // Everything else loads normally
+  
+    return "DIRECT";
   }
   
