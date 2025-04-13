@@ -125,8 +125,9 @@ I highly recommend checking out the main project, as this is just a subset. The 
 </span></span><span style=display:flex><span>│   └───weights/        <span style=color:#75715e># Text files containing trained weight values</span>
 </span></span><span style=display:flex><span>├───run/                <span style=color:#75715e># Files for automating the execution</span>
 </span></span><span style=display:flex><span>│   ├───Makefile        <span style=color:#75715e># Automates simulation/build steps (Linux/macOS)</span>
-</span></span><span style=display:flex><span>│   └───setup.bat       <span style=color:#75715e># Setup script for Windows users</span>
-</span></span><span style=display:flex><span>│   └───workflow.pl     <span style=color:#75715e># Cross-platform Perl script for automating the full workflow</span>
+</span></span><span style=display:flex><span>│   ├───setup.bat       <span style=color:#75715e># Setup script for Windows users</span>
+</span></span><span style=display:flex><span>│   ├───workflow.pl     <span style=color:#75715e># Cross-platform Perl script for automating the full workflow</span>
+</span></span><span style=display:flex><span>│   └───clean.pl        <span style=color:#75715e># To remove all created intermediate files for clean re-start</span>
 </span></span><span style=display:flex><span>├───scripts/            <span style=color:#75715e># Python scripts for image preprocessing</span>
 </span></span><span style=display:flex><span>├───sim/                <span style=color:#75715e># Test benches for verifying Verilog modules</span>
 </span></span><span style=display:flex><span>└───src/                <span style=color:#75715e># Source Verilog code</span>
@@ -136,7 +137,7 @@ I highly recommend checking out the main project, as this is just a subset. The 
 </span></span></code></pre></div><table><thead><tr><th><strong>Platform</strong></th><th><strong>Command</strong></th></tr></thead><tbody><tr><td><strong>Windows</strong></td><td><code>cd path-to-clean-dir/</code><br><code>./run/setup.bat</code></td></tr><tr><td><strong>Linux/macOS</strong></td><td><code>cd path-to-clean-dir/run/</code><br><code>make</code></td></tr><tr><td><strong>Perl (Cross-Platform)</strong></td><td><code>cd path-to-clean-dir/</code><br><code>perl ./run/workflow.pl</code></td></tr></tbody></table><p>Command Workflow</p><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>cd path-to-clean-dir/                                 <span style=color:#75715e># navigate to your project directory</span>
 </span></span><span style=display:flex><span>python ./scripts/draw.py                              <span style=color:#75715e># opens a Tkinter interface to draw an image by hand</span>
 </span></span><span style=display:flex><span>python ./scripts/img2bin.py                           <span style=color:#75715e># converts the drawn image into a text-based binary file</span>
-</span></span><span style=display:flex><span>iverilog -o ./build/arr2row.vpp ./src/arr2row.v       <span style=color:#75715e># compiles Verilog code that converts 2D image array into a 1D vector</span>
+</span></span><span style=display:flex><span>iverilog -o ./build/arr2row.vvp ./src/arr2row.v       <span style=color:#75715e># compiles Verilog code that converts 2D image array into a 1D vector</span>
 </span></span><span style=display:flex><span>vvp ./build/arr2row.vvp                               <span style=color:#75715e># runs the compiled arr2row Verilog simulation</span>
 </span></span><span style=display:flex><span>python ./scripts/wtbs_loader.py                       <span style=color:#75715e># (only needed for first build) generates weight and bias memory Verilog files</span>
 </span></span><span style=display:flex><span>python ./scripts/memloader_from_inp_vec.py            <span style=color:#75715e># loads the converted image vector into the image_memory module</span>
