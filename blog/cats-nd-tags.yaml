@@ -81,3 +81,7 @@ tags: ["RISC-V", "ISA", "open-source cores", "custom extensions", "performance b
 # Understanding the Basics of Machine Learning – May 22, 2025
 blog: ["AIML", "Basics", "all", "s"]
 tags: ["machine learning", "supervised learning", "unsupervised learning", "feature engineering", "model evaluation", "cross-validation", "scikit-learn", "Python", "classification", "regression", "clustering", "data preprocessing", "ML workflow", "hyperparameter tuning"]
+
+# Computer Vision vs. Sensor Fusion: Who Wins the Self-Driving Car Race? – May 30, 2025
+blog: ["robotics", "autonomous-vehicles", "AI", "all", "s"]
+tags: ["computer vision", "sensor fusion", "autonomous driving", "LIDAR", "radar", "camera systems", "Tesla vs Waymo", "perception systems", "deep learning", "sensor stacks", "real-time processing", "safety-critical AI", "data fusion", "self-driving algorithms"]
