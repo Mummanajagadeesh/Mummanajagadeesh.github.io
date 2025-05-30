@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Geeky | Hugo Personal Blog Template</title>
+    <link>http://localhost:1313/geeky-hugo/categories/</link>
+    <description>Recent content in Categories on Geeky | Hugo Personal Blog Template</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Jan 2023 18:19:25 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/geeky-hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial</title>
+      <link>http://localhost:1313/geeky-hugo/categories/tutorial/</link>
+      <pubDate>Tue, 24 Jan 2023 18:19:25 +0600</pubDate>
+      <guid>http://localhost:1313/geeky-hugo/categories/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>http://localhost:1313/geeky-hugo/categories/artificial-intelligence/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      <guid>http://localhost:1313/geeky-hugo/categories/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Assistant</title>
+      <link>http://localhost:1313/geeky-hugo/categories/assistant/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      <guid>http://localhost:1313/geeky-hugo/categories/assistant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Drone</title>
+      <link>http://localhost:1313/geeky-hugo/categories/drone/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      <guid>http://localhost:1313/geeky-hugo/categories/drone/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Github</title>
+      <link>http://localhost:1313/geeky-hugo/categories/github/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      <guid>http://localhost:1313/geeky-hugo/categories/github/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>http://localhost:1313/geeky-hugo/categories/programming/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      <guid>http://localhost:1313/geeky-hugo/categories/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robotics</title>
+      <link>http://localhost:1313/geeky-hugo/categories/robotics/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      <guid>http://localhost:1313/geeky-hugo/categories/robotics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Workstation</title>
+      <link>http://localhost:1313/geeky-hugo/categories/workstation/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      <guid>http://localhost:1313/geeky-hugo/categories/workstation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Youtube</title>
+      <link>http://localhost:1313/geeky-hugo/categories/youtube/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      <guid>http://localhost:1313/geeky-hugo/categories/youtube/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

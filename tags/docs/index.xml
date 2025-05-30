@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Geeky | Hugo Personal Blog Template</title>
+    <link>http://localhost:1313/geeky-hugo/tags/docs/</link>
+    <description>Recent content in Docs on Geeky | Hugo Personal Blog Template</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Jan 2023 18:19:25 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/geeky-hugo/tags/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get started with Geeky Hugo</title>
+      <link>http://localhost:1313/geeky-hugo/blog/how-to-use-geeky/</link>
+      <pubDate>Tue, 24 Jan 2023 18:19:25 +0600</pubDate>
+      <guid>http://localhost:1313/geeky-hugo/blog/how-to-use-geeky/</guid>
+      <description>&lt;p&gt;Congrats on finding the perfect theme for your blog. You have great taste that&amp;rsquo;s for sure, this guide will help you get your blog up and running with the Geeky theme in no time.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
