@@ -18,17 +18,21 @@ tags: ["cognitive skills", "problem-solving", "mental exercise", "Rubik’s Cube
 blog: ["PID", "PID1", "RubiksCubeSolver", "all", "s"]
 tags: ["cube internals", "piece types", "mechanical design", "rotation axes", "tolerances", "engineering insights", "assembly", "materials", "3D printing", "friction", "modding", "maintenance", "hardware exploration"]
 
-# Solving The Rubiks Cube #PID1.2 – February 7, 2025
+# Why Everyone’s Talking About DeepSeek? – February 6, 2025 
+blog: ["AIML", "foundation-models", "all", "s"]
+tags: ["DeepSeek", "multimodal models", "large language models", "code generation", "AI reasoning", "retrieval-augmented generation", "open-source AI", "Transformer architecture", "model comparison", "Mamba models", "deep learning landscape", "LLM ecosystem", "search-augmented LMs"]
+
+# Solving The Rubiks Cube #PID1.2 – February 12, 2025
 blog: ["PID", "PID1", "RubiksCubeSolver", "all", "s"]
 tags: ["CFOP", "layer-by-layer", "beginner’s method", "notation", "algorithms", "cross solving", "first two layers", "OLL", "PLL", "speedcubing basics", "practice drills", "cube notation", "efficiency"]
 
-# The Mathematics Behind the Rubik’s Cube #PID1.3 – February 14, 2025
-blog: ["PID", "PID1", "RubiksCubeSolver", "all", "s"]
-tags: ["group theory", "permutations", "combinatorics", "state space", "Rubik’s math", "cycle notation", "algorithm analysis", "stoichiometry", "enumeration", "symmetry", "proofs", "theoretical CS", "math foundations"]
-
-# Setting Up Icarus Verilog on Google Colab – February 24, 2025
+# Setting Up Icarus Verilog on Google Colab – February 19, 2025
 blog: ["hardware", "tools", "all", "s"]
 tags: ["Icarus Verilog", "Google Colab", "cloud EDA", "Verilog simulation", "FPGA toolchain", "EDA in cloud", "setup guide", "notebook integration", "HDL workflow", "CI/CD", "automation scripts", "shell commands"]
+
+# The Mathematics Behind the Rubik’s Cube #PID1.3 – February 25, 2025
+blog: ["PID", "PID1", "RubiksCubeSolver", "all", "s"]
+tags: ["group theory", "permutations", "combinatorics", "state space", "Rubik’s math", "cycle notation", "algorithm analysis", "stoichiometry", "enumeration", "symmetry", "proofs", "theoretical CS", "math foundations"]
 
 # Getting Started with Hugo: A Step-by-Step Guide – March 1, 2025
 blog: ["blogging", "tools", "all", "s"]
