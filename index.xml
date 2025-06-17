@@ -436,83 +436,11 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
  &lt;/tbody>
 &lt;/table>
 &lt;hr>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>&lt;strong>ImProVe Project Versions&lt;/strong>&lt;/th>
- &lt;th>&lt;strong>Linked Projects&lt;/strong>&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>&lt;strong>&lt;a href="https://github.com/Mummanajagadeesh/ImProVeR"
-
-
-
-
- target="_blank"
- 
-
-
->ImProVeR: ImProVe Revised Version&lt;/a>&lt;/strong> &lt;br> Revised version with improved documentation and structure for better clarity and usability&lt;/td>
- &lt;td>&lt;strong>&lt;a href="https://github.com/Mummanajagadeesh/ImProVe"
-
-
-
-
- target="_blank"
- 
-
-
->CoVer: CORDIC math modules in VERilog&lt;/a>&lt;/strong> &lt;br> Replaces non-synthesizable math constructs by utilizing the CORDIC algorithm for more efficient hardware implementation&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;strong>&lt;a href="https://github.com/Mummanajagadeesh/ImProVeS"
-
-
-
-
- target="_blank"
- 
-
-
->ImProVeS: ImProVe with Synthesizable Modules&lt;/a>&lt;/strong> &lt;br> Focuses on making all modules synthesizable and aims for simulation on Xilinx Vivado&lt;/td>
- &lt;td>&lt;strong>&lt;a href="http://mummanajagadeesh.github.io/projects/improve/never/"
-
-
-
-
- target="_blank"
- 
-
-
->NeVer: NEural NEtwork in VERilog&lt;/a>&lt;/strong> &lt;br> Implements a neural network in Verilog for better hardware acceleration of image processing tasks&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;strong>&lt;a href="https://github.com/Mummanajagadeesh/ImProVeD"
-
-
-
-
- target="_blank"
- 
-
-
->ImProVeD: ImProVe with Deep Learning&lt;/a>&lt;/strong> &lt;br> Adds deep learning techniques to enhance image processing capabilities&lt;/td>
- &lt;td>&lt;strong>&lt;a href="https://github.com/Mummanajagadeesh/ProtoN"
-
-
-
-
- target="_blank"
- 
-
-
->ProtoN: PROTOcol comparison in verilog&lt;/a>&lt;/strong> &lt;br> Compares different communication protocols in Verilog for efficient high-speed data transfer, focusing on synthesizability and module communication&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;hr>
+&lt;!-- | **ImProVe Project Versions** | **Linked Projects** |
+|------------------------------|---------------------|
+| **[ImProVeR: ImProVe Revised Version](https://github.com/Mummanajagadeesh/ImProVeR)** &lt;br> Revised version with improved documentation and structure for better clarity and usability | **[CoVer: CORDIC math modules in VERilog](https://github.com/Mummanajagadeesh/ImProVe)** &lt;br> Replaces non-synthesizable math constructs by utilizing the CORDIC algorithm for more efficient hardware implementation |
+| **[ImProVeS: ImProVe with Synthesizable Modules](https://github.com/Mummanajagadeesh/ImProVeS)** &lt;br> Focuses on making all modules synthesizable and aims for simulation on Xilinx Vivado | **[NeVer: NEural NEtwork in VERilog](http://mummanajagadeesh.github.io/projects/improve/never/)** &lt;br> Implements a neural network in Verilog for better hardware acceleration of image processing tasks |
+| **[ImProVeD: ImProVe with Deep Learning](https://github.com/Mummanajagadeesh/ImProVeD)** &lt;br> Adds deep learning techniques to enhance image processing capabilities | **[ProtoN: PROTOcol comparison in verilog](https://github.com/Mummanajagadeesh/ProtoN)** &lt;br> Compares different communication protocols in Verilog for efficient high-speed data transfer, focusing on synthesizability and module communication | -->
 &lt;h4 id="project-overview">&lt;strong>Project Overview&lt;/strong>&lt;/h4>
 &lt;p>ImProVe is an initiative to implement core image processing algorithms using Verilog. It aims to achieve real-time performance for advanced applications in fields like robotics, medical imaging, and computer vision.&lt;/p></description></item><item><title/><link>https://mummanajagadeesh.github.io/projects/improve/fixed-point/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/improve/fixed-point/</guid><description>&lt;h3 id="fixed-point-conversion-report-for-emnist-neural-network">Fixed-Point Conversion Report for EMNIST Neural Network&lt;/h3>
 &lt;h4 id="introduction">Introduction&lt;/h4>
@@ -1470,7 +1398,7 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
 &lt;ul>
 &lt;li>Competed in &lt;strong>Digital Hackathon&lt;/strong> with a focus on &lt;strong>digital electronics&lt;/strong>, organized under &lt;strong>C2S Chip to Startup&lt;/strong> by &lt;strong>Ministry of Electronics &amp;amp; Information Technology (MeitY)&lt;/strong>&lt;/li>
 &lt;/ul>
-&lt;h6 id="nokia-fpga-hackathon-team-mar-25">&lt;strong>Nokia FPGA Hackathon&lt;/strong> &lt;em>(Team, Mar &amp;lsquo;25)&lt;/em>&lt;/h6>
+&lt;h6 id="nokia-fpga-hackathon--participated-team-mar-25">&lt;strong>Nokia FPGA Hackathon – Participated&lt;/strong> &lt;em>(Team, Mar &amp;lsquo;25)&lt;/em>&lt;/h6>
 &lt;ul>
 &lt;li>Participated in &lt;strong>FPGA Based Quiz&lt;/strong> as part of the &lt;strong>Round 1&lt;/strong> of the competition&lt;/li>
 &lt;/ul>
@@ -1483,7 +1411,7 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
 &lt;li>Developed an &lt;strong>AI/ML-based system&lt;/strong> for &lt;strong>automatic detection of craters and boulders&lt;/strong> from &lt;strong>Orbiter High-Resolution Camera (OHRC) images&lt;/strong>&lt;/li>
 &lt;li>Focused on &lt;strong>enhancing planetary exploration&lt;/strong> through automation and computer vision&lt;/li>
 &lt;/ul>
-&lt;h6 id="bit-n-build-around-the-world-2024-individual-oct-24">&lt;strong>Bit N Build Around The World 2024&lt;/strong> &lt;em>(Individual, Oct &amp;lsquo;24)&lt;/em>&lt;/h6>
+&lt;h6 id="bit-n-build-around-the-world-2024--participated-individual-oct-24">&lt;strong>Bit N Build Around The World 2024 – Participated&lt;/strong> &lt;em>(Individual, Oct &amp;lsquo;24)&lt;/em>&lt;/h6>
 &lt;ul>
 &lt;li>24-hour hackathon; worked on &lt;strong>prediction of city traffic using computer vision&lt;/strong>&lt;/li>
 &lt;li>Competed under the &lt;strong>AI/ML domain&lt;/strong>&lt;/li>
