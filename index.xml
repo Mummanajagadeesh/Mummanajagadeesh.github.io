@@ -525,7 +525,22 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
 &lt;/table>
 &lt;hr>
 &lt;h4 id="project-overview">&lt;strong>Project Overview&lt;/strong>&lt;/h4>
-&lt;p>This project presents a novel, fully hardware-based neural network inference pipeline in Verilog, targeting the &lt;code>62-class&lt;/code> EMNIST dataset (digits + upper/lowercase letters). This project provides two separate implementations: one using IEEE 754 single-precision floating-point arithmetic, and another using 64-bit fixed-point arithmetic. Both versions are designed without relying on external IP cores.&lt;/p></description></item><item><title/><link>https://mummanajagadeesh.github.io/projects/never/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/never/</guid><description>&lt;h2 id="never-neural-network-in-veriloghttpsgithubcommummanajagadeeshnever">&lt;a href="https://github.com/Mummanajagadeesh/NeVer"
+&lt;p>This project presents a novel, fully hardware-based neural network inference pipeline in Verilog, targeting the &lt;code>62-class&lt;/code> EMNIST dataset (digits + upper/lowercase letters). This project provides two separate implementations: one using IEEE 754 single-precision floating-point arithmetic, and another using 64-bit fixed-point arithmetic. Both versions are designed without relying on external IP cores.&lt;/p></description></item><item><title/><link>https://mummanajagadeesh.github.io/projects/isro-anav/challenge/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/isro-anav/challenge/</guid><description>&lt;blockquote>
+&lt;p>&lt;strong>For complete official details and documentation, visit the &lt;a href="https://www.ursc.gov.in/IRoC-U2025/"
+
+
+
+
+ target="_blank"
+ 
+
+
+>ISRO IRoC-U2025&lt;/a>.&lt;/strong>&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h3 id="iroc-u-2025--technical-challenge-summary">&lt;strong>IRoC-U 2025 – Technical Challenge Summary&lt;/strong>&lt;/h3>
+&lt;h4 id="challenge-overview">&lt;strong>Challenge Overview&lt;/strong>&lt;/h4>
+&lt;p>Design and demonstrate an &lt;strong>Autonomous Navigation System for an Aerial Vehicle (ANAV)&lt;/strong> that can function in a simulated Martian environment &lt;strong>without any external navigation aids&lt;/strong> like GNSS, pseudolites, or reflectors.&lt;/p></description></item><item><title/><link>https://mummanajagadeesh.github.io/projects/isro-anav/simulation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/isro-anav/simulation/</guid><description/></item><item><title/><link>https://mummanajagadeesh.github.io/projects/never/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/never/</guid><description>&lt;h2 id="never-neural-network-in-veriloghttpsgithubcommummanajagadeeshnever">&lt;a href="https://github.com/Mummanajagadeesh/NeVer"
 
 
 
@@ -1316,7 +1331,54 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
 &lt;blockquote>
 &lt;p>The original version, which utilizes FSM, is currently on hold. Here is the base version, which does not use FSM and instead relies directly on Boolean logic expressions. Below is the explanation for the base version.&lt;/p></description></item><item><title>:~$ whoami</title><link>https://mummanajagadeesh.github.io/about_1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/about_1/</guid><description>&lt;!-- ##### /jagadeesh97 -->
 &lt;p>I’m from Visakhapatnam, Andhra Pradesh, and currently a &lt;strong>sophomore at NIT Calicut&lt;/strong>, studying &lt;strong>Electronics and Communication Engineering&lt;/strong>.&lt;/p></description></item><item><title>About ME</title><link>https://mummanajagadeesh.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/about/</guid><description>&lt;!-- ##### /jagadeesh97 -->
-&lt;p>I’m from Visakhapatnam, Andhra Pradesh, and currently a &lt;strong>sophomore at NIT Calicut&lt;/strong>, studying &lt;strong>Electronics and Communication Engineering&lt;/strong>.&lt;/p></description></item><item><title>Basic Sensor-Based Mobile Robots</title><link>https://mummanajagadeesh.github.io/projects/gpbot/subprojects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/gpbot/subprojects/</guid><description/></item><item><title>Contact</title><link>https://mummanajagadeesh.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/contact/</guid><description/></item><item><title>Courses</title><link>https://mummanajagadeesh.github.io/about/courses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/about/courses/</guid><description>&lt;h6 id="edx">&lt;strong>EDX&lt;/strong>&lt;/h6>
+&lt;p>I’m from Visakhapatnam, Andhra Pradesh, and currently a &lt;strong>sophomore at NIT Calicut&lt;/strong>, studying &lt;strong>Electronics and Communication Engineering&lt;/strong>.&lt;/p></description></item><item><title>ANAV for Martian Surface Exploration</title><link>https://mummanajagadeesh.github.io/projects/isro-anav/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/isro-anav/</guid><description>&lt;!-- ## [ANAV for Martian Surface Exploration](https://github.com/rignitc/isro-irocu-2k25) -->
+&lt;h2 style="color: #A45D5D; text-decoration: underline;">
+ &lt;a href="https://github.com/rignitc/isro-irocu-2k25" target="_blank" rel="noopener" style="color: inherit; text-decoration: inherit;">
+ ANAV for Martian Surface Exploration
+ &lt;/a>
+&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;strong>Name&lt;/strong>&lt;/th>
+ &lt;th>ISRO-ANAV&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;strong>Description&lt;/strong>&lt;/td>
+ &lt;td>The designed ANAV is a sub-2 kg rotorcraft built for GNSS-denied environments, capable of autonomous take-off, terrain scanning, safe landing, and return. It operates solely on battery power, uses RF communication, and integrates onboard sensing and navigation algorithms without external aids&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Start&lt;/strong>&lt;/td>
+ &lt;td>Dec 2024&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Repository&lt;/strong>&lt;/td>
+ &lt;td>&lt;a href="https://github.com/rignitc/isro-irocu-2k25" target="_blank" rel="noopener" style="text-decoration: underline;"> ISRO-ANAV🔗&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Type&lt;/strong>&lt;/td>
+ &lt;td>Team ISRO (RIG)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Level&lt;/strong>&lt;/td>
+ &lt;td>Intermediate&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Skills&lt;/strong>&lt;/td>
+ &lt;td>Aerial Robotics, Simulation, Programming&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Tools Used&lt;/strong>&lt;/td>
+ &lt;td>ROS2, VINS Fusion, ESP32, MissionPlanner, Webots, Python&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Current Status&lt;/strong>&lt;/td>
+ &lt;td>Ongoing&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>Basic Sensor-Based Mobile Robots</title><link>https://mummanajagadeesh.github.io/projects/gpbot/subprojects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/gpbot/subprojects/</guid><description/></item><item><title>Contact</title><link>https://mummanajagadeesh.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/contact/</guid><description/></item><item><title>Courses</title><link>https://mummanajagadeesh.github.io/about/courses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/about/courses/</guid><description>&lt;h6 id="edx">&lt;strong>EDX&lt;/strong>&lt;/h6>
 &lt;ul>
 &lt;li>&lt;strong>CS50P 2022&lt;/strong> Harvard | Jan'24&lt;/li>
 &lt;li>&lt;strong>CS50X 2024&lt;/strong> Harvard | Sep'24&lt;/li>
