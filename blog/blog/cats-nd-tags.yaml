@@ -1,0 +1,91 @@
+# Hello World!! (A MUST READ) – January 3, 2025
+blog: ["blogging", "personal", "all", "s"]
+tags: ["first post", "introduction", "welcome", "blog launch", "setup guide", "motivation", "audience intro", "content strategy", "roadmap", "Hello World", "site configuration", "foundations"]
+
+# Why Blog in 2025? (And How to Get Started) – January 10, 2025
+blog: ["blogging", "hugo", "all", "s"]
+tags: ["hugo", "blogging trends", "2025 outlook", "SEO basics", "content calendar", "personal branding", "CMS selection", "static vs dynamic", "audience growth", "monetization", "writing tips", "platform comparison", "engagement strategies", "niche definition"]
+
+# My RosConIN'24 (+GNOME Asia Summit) Experience – January 17, 2025
+blog: ["robotics", "events", "personal", "all", "s"]
+tags: ["ROSConIN", "GNOME Asia Summit", "conference recap", "keynotes", "workshops", "networking", "open source", "robotics community", "takeaways", "slideshare", "talk highlights", "future trends", "speaker interviews"]
+
+# Why Should You Start Solving Puzzles? #PID1.0 – January 24, 2025
+blog: ["PID", "PID1", "RubiksCubeSolver", "all", "s"]
+tags: ["cognitive skills", "problem-solving", "mental exercise", "Rubik’s Cube intro", "brain teasers", "algorithmic thinking", "puzzle benefits", "spatial reasoning", "focus training", "hobby ideas", "educational games", "skill development", "motivation"]
+
+# Mechanics of Rubiks Cube #PID1.1 – January 31, 2025
+blog: ["PID", "PID1", "RubiksCubeSolver", "all", "s"]
+tags: ["cube internals", "piece types", "mechanical design", "rotation axes", "tolerances", "engineering insights", "assembly", "materials", "3D printing", "friction", "modding", "maintenance", "hardware exploration"]
+
+# Why Everyone’s Talking About DeepSeek? – February 6, 2025 
+blog: ["AIML", "foundation-models", "all", "s"]
+tags: ["DeepSeek", "multimodal models", "large language models", "code generation", "AI reasoning", "retrieval-augmented generation", "open-source AI", "Transformer architecture", "model comparison", "Mamba models", "deep learning landscape", "LLM ecosystem", "search-augmented LMs"]
+
+# Solving The Rubiks Cube #PID1.2 – February 12, 2025
+blog: ["PID", "PID1", "RubiksCubeSolver", "all", "s"]
+tags: ["CFOP", "layer-by-layer", "beginner’s method", "notation", "algorithms", "cross solving", "first two layers", "OLL", "PLL", "speedcubing basics", "practice drills", "cube notation", "efficiency"]
+
+# Setting Up Icarus Verilog on Google Colab – February 19, 2025
+blog: ["hardware", "tools", "all", "s"]
+tags: ["Icarus Verilog", "Google Colab", "cloud EDA", "Verilog simulation", "FPGA toolchain", "EDA in cloud", "setup guide", "notebook integration", "HDL workflow", "CI/CD", "automation scripts", "shell commands"]
+
+# The Mathematics Behind the Rubik’s Cube #PID1.3 – February 25, 2025
+blog: ["PID", "PID1", "RubiksCubeSolver", "all", "s"]
+tags: ["group theory", "permutations", "combinatorics", "state space", "Rubik’s math", "cycle notation", "algorithm analysis", "stoichiometry", "enumeration", "symmetry", "proofs", "theoretical CS", "math foundations"]
+
+# Getting Started with Hugo: A Step-by-Step Guide – March 1, 2025
+blog: ["blogging", "tools", "all", "s"]
+tags: ["Hugo", "static site generator", "Markdown", "themes", "GitHub Pages", "deployment", "shortcodes", "front matter", "template customization", "CLI usage", "site speed", "SEO optimization", "content organization"]
+
+# How Do Computers Come into the Art of Solving Puzzles? #PID1.4 – March 7, 2025
+blog: ["PID", "PID1", "RubiksCubeSolver", "all", "s"]
+tags: ["puzzle automation", "search algorithms", "heuristics", "BFS", "DFS", "A* search", "state graph", "cube solver", "AI integration", "algorithm efficiency", "backtracking", "computational complexity", "software design"]
+
+# Kociemba’s Algorithm – The Two-Phase Breakthrough #PID1.5 – March 18, 2025
+blog: ["PID", "PID1", "RubiksCubeSolver", "all", "s"]
+tags: ["Kociemba algorithm", "two-phase solver", "pruning tables", "optimal solutions", "phase 1", "phase 2", "search space reduction", "lookup tables", "runtime analysis", "implementation", "performance tuning", "solver comparison"]
+
+# Demystifying UART, SPI, and I2C: Communication Between Chips – March 24, 2025
+blog: ["hardware", "communication-protocols", "all", "s"]
+tags: ["UART", "SPI", "I2C", "protocol comparison", "bus arbitration", "master-slave", "full-duplex", "clocking", "electrical levels", "embedded systems", "microcontrollers", "sensor interfacing", "trade-offs", "debugging tools"]
+
+# UART: A Detailed Overview of Asynchronous Serial Communication – March 27, 2025
+blog: ["hardware", "communication-protocols", "all", "s"]
+tags: ["UART", "baud rate", "framing bits", "start-stop bits", "RS-232", "TTL levels", "serial debugging", "flow control", "buffering", "error detection", "embedded UART", "FPGA UART", "terminal emulators", "serial protocols"]
+
+# SPI: Understanding the Serial Peripheral Interface Protocol – April 1, 2025
+blog: ["hardware", "communication-protocols", "all", "s"]
+tags: ["SPI", "MOSI", "MISO", "SCLK", "CS pin", "multi-slave", "full-duplex", "clock polarity", "phase modes", "data rates", "sensor interfacing", "FPGA SPI", "embedded applications", "PCB layout"]
+
+# I²C: Fundamentals and Practical Aspects of Inter-Integrated Circuit Communication – April 8, 2025
+blog: ["hardware", "communication-protocols", "all", "s"]
+tags: ["I2C", "master/slave", "clock stretching", "multi-master", "bus arbitration", "pull-up resistors", "addressing", "10-bit vs 7-bit", "sensor networks", "embedded firmware", "timing diagrams", "signal integrity", "protocol analyzer"]
+
+# Switch to Linux and Thank Me Later – April 15, 2025
+blog: ["linux", "operating-systems", "all", "s"]
+tags: ["Linux distro", "terminal", "shell scripting", "package managers", "systemd", "bash tricks", "permissions", "kernel modules", "custom kernels", "desktop environments", "security", "network tools", "productivity hacks"]
+
+# What is SLAM? And Why It’s the Brain of Mobile Robots – April 20, 2025
+blog: ["robotics", "SLAM", "all", "s"]
+tags: ["SLAM", "mapping", "localization", "LIDAR", "visual SLAM", "sensor fusion", "EKF", "particle filter", "ROS integration", "RTAB-Map", "ORB-SLAM", "autonomous navigation", "robot perception", "algorithm comparison"]
+
+# ROS 2 vs ROS 1: What Changed and Why It Matters? – May 2, 2025
+blog: ["robotics", "ROS", "all", "s"]
+tags: ["ROS 2", "ROS 1", "DDS", "middleware", "real-time systems", "topics & services", "actions", "launch files", "node lifecycle", "migration path", "security features", "QoS settings", "ecosystem", "community support"]
+
+# Introduction to VLSI Design Flow: RTL to GDSII – May 8, 2025
+blog: ["VLSI", "hardware", "all", "s"]
+tags: ["RTL design", "synthesis", "place and route", "GDSII", "timing closure", "power analysis", "SKILL scripts", "floorplanning", "DRC", "LVS", "shouldice flow", "ASIC prototyping", "EDA tools", "verification"]
+
+# Why RISC-V Can Be a Game Changer? – May 15, 2025
+blog: ["hardware", "VLSI", "all", "s"]
+tags: ["RISC-V", "ISA", "open-source cores", "custom extensions", "performance benchmarks", "ecosystem", "toolchain", "SiFive", "FPGA prototyping", "embedded SoCs", "academic research", "future trends", "security", "modularity"]
+
+# Understanding the Basics of Machine Learning – May 22, 2025
+blog: ["AIML", "Basics", "all", "s"]
+tags: ["machine learning", "supervised learning", "unsupervised learning", "feature engineering", "model evaluation", "cross-validation", "scikit-learn", "Python", "classification", "regression", "clustering", "data preprocessing", "ML workflow", "hyperparameter tuning"]
+
+# Computer Vision vs. Sensor Fusion: Who Wins the Self-Driving Car Race? – May 30, 2025
+blog: ["robotics", "autonomous-vehicles", "AI", "all", "s"]
+tags: ["computer vision", "sensor fusion", "autonomous driving", "LIDAR", "radar", "camera systems", "Tesla vs Waymo", "perception systems", "deep learning", "sensor stacks", "real-time processing", "safety-critical AI", "data fusion", "self-driving algorithms"]
