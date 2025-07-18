@@ -1134,7 +1134,115 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
 &lt;!-- | **Progress** | - Implemented edge detection algorithms: Prewitt, Sobel, Canny, and Moravec corner detection. &lt;br> - Applied blurring filters: Gaussian, Median, Box, and Bilateral. &lt;br> - Completed geometric operations: Rotation, Translation, Shearing, Cropping, and Reflection. &lt;br> - Integrated thresholding techniques: Global Thresholding, Adaptive Thresholding, Otsu’s Method, and Color Thresholding. &lt;br> - Developed subprojects: Label detection (Done), Document scanner (Ongoing), License plate detection (To be started), Stereo camera matching (Almost done). | 
 | **Next Steps** | - Develop a synthesizable module as a proof of concept. &lt;br> - Implement morphological operations: Dilation, Closing, Opening. | -->
 &lt;hr>
-&lt;p>This project implements the I2C protocol in Verilog with various versions and configurations. Below is a summary of each version:&lt;/p></description></item><item><title/><link>https://mummanajagadeesh.github.io/projects/rubec/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/rubec/</guid><description>&lt;h2 id="ru83c-rubiks-cube-solving-robothttpsgithubcommummanajagadeeshru83c">&lt;a href="https://github.com/Mummanajagadeesh/RU83C/"
+&lt;p>This project implements the I2C protocol in Verilog with various versions and configurations. Below is a summary of each version:&lt;/p></description></item><item><title/><link>https://mummanajagadeesh.github.io/projects/rose/rv32i/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/rose/rv32i/</guid><description>&lt;h3 id="rv32i-cpu-core">RV32I CPU CORE&lt;/h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ &lt;img
+ title=""
+ loading="lazy"
+ decoding="async"
+ class="img "
+ width="1991"
+ height="3187"
+ src="https://mummanajagadeesh.github.io/images/projects/sanganak/rv32i_hu10364121658834332110.webp"
+ alt="RV32I"
+ onerror="this.onerror='null';this.src='\/images\/projects\/sanganak\/rv32i_hu10389664333019388688.png'" />
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+
+ &lt;script>
+ window.addEventListener("load", (e) => {
+ const lightbox = GLightbox();
+ });
+ &lt;/script>
+
+
+&lt;p>This project implements a basic RV32I RISC-V processor core using TL-Verilog. The processor is capable of executing the base integer instruction set, with an example program that calculates the sum of integers from 1 to 9. The code is written for Makerchip and is fully synthesizable and testable in simulation.&lt;/p></description></item><item><title/><link>https://mummanajagadeesh.github.io/projects/rubec/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/rubec/</guid><description>&lt;h2 id="ru83c-rubiks-cube-solving-robothttpsgithubcommummanajagadeeshru83c">&lt;a href="https://github.com/Mummanajagadeesh/RU83C/"
 
 
 
@@ -1380,7 +1488,55 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
  &lt;td>Ongoing&lt;/td>
  &lt;/tr>
  &lt;/tbody>
-&lt;/table></description></item><item><title>Basic Sensor-Based Mobile Robots</title><link>https://mummanajagadeesh.github.io/projects/gpbot/subprojects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/gpbot/subprojects/</guid><description/></item><item><title>Contact</title><link>https://mummanajagadeesh.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/contact/</guid><description/></item><item><title>Courses</title><link>https://mummanajagadeesh.github.io/about/courses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/about/courses/</guid><description>&lt;h6 id="edx">&lt;strong>EDX&lt;/strong>&lt;/h6>
+&lt;/table></description></item><item><title>Basic RV32I RTL CPU Design</title><link>https://mummanajagadeesh.github.io/projects/rose/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/rose/</guid><description>&lt;!-- #### [ANAV for Martian Surface Exploration](https://github.com/rignitc/isro-irocu-2k25) -->
+&lt;h4 style="color: #A45D5D; text-decoration: underline;">
+ &lt;a href="https://github.com/Mummanajagadeesh/rose" target="_blank" rel="noopener" style="color: inherit; text-decoration: inherit;">
+ Basic RV32I RTL CPU Design
+ &lt;/a>
+&lt;/h4>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;strong>Name&lt;/strong>&lt;/th>
+ &lt;th>ROSE&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;strong>Description&lt;/strong>&lt;/td>
+ &lt;td>&lt;strong>RoSe (RISC-V Open-Source Environment)&lt;/strong> is a set of learning-focused experiments exploring the design of a RISC-V processor using only open-source tools. Each version tackles a different aspect of CPU design—from simulation to high-level abstraction to physical design. These are standalone efforts and not part of a continuous development flow.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Start&lt;/strong>&lt;/td>
+ &lt;td>Mar 2025&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Repository&lt;/strong>&lt;/td>
+ &lt;td>&lt;a href="https://github.com/Mummanajagadeesh/rose/" target="_blank" rel="noopener" style="text-decoration: underline;"> ROSE🔗&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Type&lt;/strong>&lt;/td>
+ &lt;td>Individual&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Level&lt;/strong>&lt;/td>
+ &lt;td>Beginner&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Skills&lt;/strong>&lt;/td>
+ &lt;td>Computer Architechture&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Tools Used&lt;/strong>&lt;/td>
+ &lt;td>TL-Verilog, Colab, Xilinx, OpenLane&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Current Status&lt;/strong>&lt;/td>
+ &lt;td>Ongoing&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>&lt;br>&lt;br>&lt;br>&lt;br>&lt;br>&lt;/p></description></item><item><title>Basic Sensor-Based Mobile Robots</title><link>https://mummanajagadeesh.github.io/projects/gpbot/subprojects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/gpbot/subprojects/</guid><description/></item><item><title>Contact</title><link>https://mummanajagadeesh.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/contact/</guid><description/></item><item><title>Courses</title><link>https://mummanajagadeesh.github.io/about/courses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/about/courses/</guid><description>&lt;h6 id="edx">&lt;strong>EDX&lt;/strong>&lt;/h6>
 &lt;ul>
 &lt;li>&lt;strong>CS50P 2022&lt;/strong> Harvard | Jan'24&lt;/li>
 &lt;li>&lt;strong>CS50X 2024&lt;/strong> Harvard | Sep'24&lt;/li>
