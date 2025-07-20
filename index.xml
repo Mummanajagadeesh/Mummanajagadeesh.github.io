@@ -15,6 +15,7 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
 
 
 >GPBOT - Basic Sensor based General Purpose AMR&lt;/a>&lt;/h2>
+&lt;img src="https://github.com/Mummanajagadeesh/Mummanajagadeesh/blob/main/repos/gpbot-dark.svg?raw=true" height="800" alt="NEVER">
 &lt;h5 id="do-checkout-">Do checkout :&lt;/h5>
 &lt;h5 id="basic-line-following-robothttpsmummanajagadeeshgithubioprojectsgpbotlfr">&lt;strong>&lt;a href="https://mummanajagadeesh.github.io/projects/gpbot/lfr"
 
@@ -118,6 +119,7 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
 
 
 >Differential Drive Robot Simulation&lt;/a>&lt;/h2>
+&lt;img src="https://github.com/Mummanajagadeesh/Mummanajagadeesh/blob/main/repos/differential-drive-robot-w-dark.svg?raw=true" height="800" alt="NEVER">
 &lt;table>
  &lt;thead>
  &lt;tr>
@@ -180,6 +182,7 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
 
 
 >Line Follower Robot&lt;/a>&lt;/h2>
+&lt;img src="https://github.com/Mummanajagadeesh/Mummanajagadeesh/blob/main/repos/line-follower-robot-w-dark.svg?raw=true" height="800" alt="NEVER">
 &lt;table>
  &lt;thead>
  &lt;tr>
@@ -242,6 +245,7 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
 
 
 >Obstacle Avoidance Robot&lt;/a>&lt;/h2>
+&lt;img src="https://github.com/Mummanajagadeesh/Mummanajagadeesh/blob/main/repos/obstacle-avoidance-robot-w-dark.svg?raw=true" height="800" alt="NEVER">
 &lt;table>
  &lt;thead>
  &lt;tr>
@@ -304,6 +308,7 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
 
 
 >Wall Follower Robot Simulation&lt;/a>&lt;/h2>
+&lt;img src="https://github.com/Mummanajagadeesh/Mummanajagadeesh/blob/main/repos/wall-follower-robot-w-dark.svg?raw=true" height="800" alt="NEVER">
 &lt;table>
  &lt;thead>
  &lt;tr>
@@ -366,6 +371,7 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
 
 
 >ImProVe: IMage PROcessing using VErilog&lt;/a>&lt;/h2>
+&lt;img src="https://github.com/Mummanajagadeesh/Mummanajagadeesh/blob/main/repos/improve-dark.svg?raw=true" height="800" alt="NEVER">
 &lt;h5 id="do-checkout--neural-network-in-veriloghttpmummanajagadeeshgithubioprojectsimprovenever">Do checkout : &lt;strong>&lt;a href="http://mummanajagadeesh.github.io/projects/improve/never/"
 
 
@@ -454,6 +460,7 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
 
 
 >NeVer: NEural NEtwork in VERilog&lt;/a>&lt;/h2>
+&lt;img src="https://github.com/Mummanajagadeesh/Mummanajagadeesh/blob/main/repos/never-dark.svg?raw=true" height="800" alt="NEVER">
 &lt;h5 id="do-checkout-main-project-improve-image-processing-using-veriloghttpmummanajagadeeshgithubioprojectsimprove">Do Checkout Main Project: &lt;strong>&lt;a href="http://mummanajagadeesh.github.io/projects/improve/"
 
 
@@ -633,6 +640,7 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
 
 
 >PIDC - PID Controller using OpAmps&lt;/a>&lt;/h2>
+&lt;img src="https://github.com/Mummanajagadeesh/Mummanajagadeesh/blob/main/repos/pid_ctrl-dark.svg?raw=true" height="800" alt="NEVER">
 &lt;table>
  &lt;thead>
  &lt;tr>
@@ -696,6 +704,7 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
 
 
 >PR057H371C4RM&lt;/a>&lt;/h2>
+&lt;img src="https://github.com/Mummanajagadeesh/Mummanajagadeesh/blob/main/repos/pr057h371c4rm-dark.svg?raw=true" height="800" alt="NEVER">
 &lt;table>
  &lt;thead>
  &lt;tr>
@@ -1080,6 +1089,7 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
 
 
 >I2C Protocol Verilog Implementation using FSM&lt;/a>&lt;/h2>
+&lt;img src="https://github.com/Mummanajagadeesh/Mummanajagadeesh/blob/main/repos/i2c-protocol-verilog-dark.svg?raw=true" height="800" alt="NEVER">
 &lt;table>
  &lt;thead>
  &lt;tr>
@@ -1242,6 +1252,7 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
  &lt;/script>
 
 
+&lt;img src="https://github.com/Mummanajagadeesh/Mummanajagadeesh/blob/main/repos/rose-dark.svg?raw=true" height="800" alt="NEVER">
 &lt;p>This project implements a basic RV32I RISC-V processor core using TL-Verilog. The processor is capable of executing the base integer instruction set, with an example program that calculates the sum of integers from 1 to 9. The code is written for Makerchip and is fully synthesizable and testable in simulation.&lt;/p></description></item><item><title/><link>https://mummanajagadeesh.github.io/projects/rubec/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/rubec/</guid><description>&lt;h2 id="ru83c-rubiks-cube-solving-robothttpsgithubcommummanajagadeeshru83c">&lt;a href="https://github.com/Mummanajagadeesh/RU83C/"
 
 
@@ -1252,6 +1263,9 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
 
 
 >RU83C: Rubik&amp;rsquo;s Cube Solving Robot&lt;/a>&lt;/h2>
+&lt;img src="https://github.com/Mummanajagadeesh/Mummanajagadeesh/blob/main/repos/ru83c-dark.svg?raw=true" height="800" alt="NEVER">
+&lt;p>&lt;br>&lt;br>&lt;/p>
+&lt;img src="https://github.com/Mummanajagadeesh/Mummanajagadeesh/blob/main/repos/v-ru81k5cu83-dark.svg?raw=true" height="800" alt="NEVER">
 &lt;table>
  &lt;thead>
  &lt;tr>
@@ -1323,6 +1337,7 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
 
 
 >Shopping Cart Bot&lt;/a>&lt;/h2>
+&lt;img src="https://github.com/Mummanajagadeesh/Mummanajagadeesh/blob/main/repos/shopping-cart-bot-rig-dark.svg?raw=true" height="800" alt="NEVER">
 &lt;table>
  &lt;thead>
  &lt;tr>
@@ -1386,6 +1401,7 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
 
 
 >TRAFFIC LIGHT CONTROLLER 🚦&lt;/a>&lt;/h2>
+&lt;img src="https://github.com/Mummanajagadeesh/Mummanajagadeesh/blob/main/repos/trafficlightcontroller-verilog-dark.svg?raw=true" height="800" alt="NEVER">
 &lt;table>
  &lt;thead>
  &lt;tr>
@@ -1494,6 +1510,7 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
  Basic RV32I RTL CPU Design
  &lt;/a>
 &lt;/h4>
+&lt;img src="https://github.com/Mummanajagadeesh/Mummanajagadeesh/blob/main/repos/rose-dark.svg?raw=true" height="800" alt="NEVER">
 &lt;table>
  &lt;thead>
  &lt;tr>
@@ -1536,7 +1553,17 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
-&lt;p>&lt;br>&lt;br>&lt;br>&lt;br>&lt;br>&lt;/p></description></item><item><title>Basic Sensor-Based Mobile Robots</title><link>https://mummanajagadeesh.github.io/projects/gpbot/subprojects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/gpbot/subprojects/</guid><description/></item><item><title>Contact</title><link>https://mummanajagadeesh.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/contact/</guid><description/></item><item><title>Courses</title><link>https://mummanajagadeesh.github.io/about/courses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/about/courses/</guid><description>&lt;h6 id="edx">&lt;strong>EDX&lt;/strong>&lt;/h6>
+&lt;p>&lt;br>&lt;br>&lt;br>&lt;br>&lt;br>&lt;/p></description></item><item><title>Basic Sensor-Based Mobile Robots</title><link>https://mummanajagadeesh.github.io/projects/gpbot/subprojects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/gpbot/subprojects/</guid><description>&lt;br>
+&lt;img src="https://github.com/Mummanajagadeesh/Mummanajagadeesh/blob/main/repos/gpbot-w-dark.svg?raw=true" height="800" alt="NEVER">
+&lt;p>&lt;br>&lt;br>&lt;/p>
+&lt;img src="https://github.com/Mummanajagadeesh/Mummanajagadeesh/blob/main/repos/differential-drive-robot-w-dark.svg?raw=true" height="800" alt="NEVER">
+&lt;p>&lt;br>&lt;br>&lt;/p>
+&lt;img src="https://github.com/Mummanajagadeesh/Mummanajagadeesh/blob/main/repos/line-follower-robot-w-dark.svg?raw=true" height="800" alt="NEVER">
+&lt;p>&lt;br>&lt;br>&lt;/p>
+&lt;img src="https://github.com/Mummanajagadeesh/Mummanajagadeesh/blob/main/repos/obstacle-avoidance-robot-w-dark.svg?raw=true" height="800" alt="NEVER">
+&lt;p>&lt;br>&lt;br>&lt;/p>
+&lt;img src="https://github.com/Mummanajagadeesh/Mummanajagadeesh/blob/main/repos/wall-follower-robot-w-dark.svg?raw=true" height="800" alt="NEVER">
+&lt;p>&lt;br>&lt;br>&lt;/p></description></item><item><title>Contact</title><link>https://mummanajagadeesh.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/contact/</guid><description/></item><item><title>Courses</title><link>https://mummanajagadeesh.github.io/about/courses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/about/courses/</guid><description>&lt;h6 id="edx">&lt;strong>EDX&lt;/strong>&lt;/h6>
 &lt;ul>
 &lt;li>&lt;strong>CS50P 2022&lt;/strong> Harvard | Jan'24&lt;/li>
 &lt;li>&lt;strong>CS50X 2024&lt;/strong> Harvard | Sep'24&lt;/li>
