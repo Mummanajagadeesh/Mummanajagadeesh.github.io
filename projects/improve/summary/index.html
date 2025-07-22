@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Verilog HDL Toolkit</title>
+
+  <!-- Basic Metadata -->
+  <meta name="author" content="Jagadeesh Mummana" />
+  <meta name="description" content="Verilog HDL projects including image processing, neural networks, CORDIC algorithm, and systolic array matrix multiplication." />
+  <meta name="keywords" content="Verilog, HDL, VLSI, AI, Neural Networks, Image Processing, Matrix Multiplication, CORDIC, GitHub Projects, Jagadeesh Mummana, FPGA, Digital Design" />
+
+  <!-- Open Graph Metadata -->
+  <meta property="og:title" content="Jagadeesh's Verilog HDL Toolkit" />
+  <meta property="og:description" content="Explore HDL-based projects like ImProVe, NeVer, CORDIC algorithm, and systolic array architecture by Jagadeesh Mummana." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://github.com/Mummanajagadeesh" />
+  <meta property="og:site_name" content="Jagadeesh's GitHub Projects" />
+  <meta property="og:locale" content="en_US" />
+
+  <!-- Twitter Card Metadata -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Jagadeesh's Verilog Projects" />
+  <meta name="twitter:description" content="Image Processing, Neural Nets, CORDIC, and Matrix Multiplication in Verilog." />
+
+  <!-- Project Metadata -->
+
+  <!-- ImProVe -->
+  <meta name="project:ImProVe:name" content="ImProVe" />
+  <meta name="project:ImProVe:description" content="Image processing using Verilog" />
+  <meta name="project:ImProVe:language" content="Verilog" />
+  <meta name="project:ImProVe:stars" content="1" />
+  <meta name="project:ImProVe:forks" content="0" />
+  <meta name="project:ImProVe:url" content="https://github.com/Mummanajagadeesh/ImProVe" />
+  <meta name="project:ImProVe:topics" content="color-transformations, digital-image-processing, filters, verilog-hdl, masks, edge-detection, geometric-transformations, morphological-operators, noise-reduction" />
+
+  <!-- NeVer -->
+  <meta name="project:NeVer:name" content="NeVer" />
+  <meta name="project:NeVer:description" content="NEural NEtwork on VERilog" />
+  <meta name="project:NeVer:language" content="Verilog" />
+  <meta name="project:NeVer:stars" content="1" />
+  <meta name="project:NeVer:forks" content="0" />
+  <meta name="project:NeVer:url" content="https://github.com/Mummanajagadeesh/NeVer" />
+  <meta name="project:NeVer:topics" content="ai, ml, verilog, bash, colab, digital-design, vlsi-design, edge-inference, tcl, makefile" />
+
+  <!-- CORDIC -->
+  <meta name="project:CORDIC:name" content="cordic-algorithm-verilog" />
+  <meta name="project:CORDIC:description" content="CORDIC algorithm implementation in Verilog for efficient estimation of mathematical functions" />
+  <meta name="project:CORDIC:language" content="Verilog" />
+  <meta name="project:CORDIC:stars" content="1" />
+  <meta name="project:CORDIC:forks" content="0" />
+  <meta name="project:CORDIC:url" content="https://github.com/Mummanajagadeesh/cordic-algorithm-verilog" />
+  <meta name="project:CORDIC:topics" content="cordic, trigonometric-functions, exponential, logarithmic, cube-root, square-root, math-functions, verilog-hdl" />
+
+  <!-- Systolic Array -->
+  <meta name="project:Systolic:name" content="systolic-array-matrix-multiplication" />
+  <meta name="project:Systolic:description" content="Hardware-accelerated matrix multiplication using a systolic array architecture" />
+  <meta name="project:Systolic:language" content="Verilog" />
+  <meta name="project:Systolic:stars" content="0" />
+  <meta name="project:Systolic:forks" content="0" />
+  <meta name="project:Systolic:url" content="https://github.com/Mummanajagadeesh/systolic-array-matrix-multiplication" />
+  <meta name="project:Systolic:topics" content="systolic-arrays, matrix-multiplication, hardware-inference, processing-element, inference, hdl" />
+
+  <!-- Favicon -->
+  <link rel="icon" href="https://avatars.githubusercontent.com/u/75290381?v=4" />
+
+
+  <style>
+    :root {
+      --bg-color: #0d1117; /* GitHub dark theme bg */
+      --text-color: #c9d1d9; /* GitHub text color */
+    }
+
+    body {
+      background-color: var(--bg-color);
+      color: var(--text-color);
+      font-family: monospace;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+
+    a {
+      color: #58a6ff; /* GitHub link blue */
+      text-decoration: none;
+    }
+
+    .theme-toggle {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      width: 60px;
+      height: 30px;
+      background-color: #30363d;
+      border-radius: 30px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 5px 10px;
+      font-size: 1rem;
+      color: #c9d1d9;
+    }
+
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 0.5em;
+    }
+
+    h2 {
+      font-size: 1.5em;
+      margin-top: 2em;
+    }
+
+    img {
+      max-width: 100%;
+    }
+
+    table {
+      width: 100%;
+      border-spacing: 20px;
+    }
+
+    td {
+      text-align: center;
+    }
+
+    blockquote {
+      border-left: 4px solid #30363d;
+      margin: 1em 0;
+      padding-left: 1em;
+      color: #8b949e;
+    }
+    
+    code {
+      background-color: #2f363d;
+      padding: 2px 4px;
+      border-radius: 3px;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 0.95em;
+    }
+
+    h1 a {
+      color: #58a6ff; /* GitHub-style blue */
+      text-decoration: none;
+    }
+    
+    h1 a:hover {
+      text-decoration: underline;
+    }
+
+    img:hover {
+      transform: scale(1.03);
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+  </style>
+</head>
+<body>
+  <div class="theme-toggle" onclick="toggleTheme()">🌞🌙</div>
+  <div class="container">
+
+
+    <h1>
+      <a href="https://mummanajagadeesh.github.io/projects/improve/subprojects" rel="nofollow">
+        Verilog HDL Toolkit for Image Processing and Pattern Recognition🔗
+      </a>
+    </h1>
+
+
+    <blockquote><p><strong>NeVer ImProVe-d — just MOVe-d on ¯\_(ツ)_/¯</strong></p></blockquote>
+
+    <table>
+      <tr>
+        <td>
+          <a href="https://github.com/Mummanajagadeesh/ImProVe">
+            <img src="https://raw.githubusercontent.com/Mummanajagadeesh/Mummanajagadeesh/main/repos/improve-dark.svg" alt="ImProVe GitHub repo card">
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/Mummanajagadeesh/NeVer">
+            <img src="https://raw.githubusercontent.com/Mummanajagadeesh/Mummanajagadeesh/main/repos/never-dark.svg" alt="NeVer GitHub repo card">
+          </a>
+        </td>
+      </tr>
+    </table>
+
+    <h2>ImProVe - IMage PROcessing using VErilog</h2>
+    <p>A collection of image processing algorithms implemented in Verilog, including geometric transformations, color space conversions, and foundational operations.</p>
+
+    <h2>NeVer - NEural NEtwork on VERilog</h2>
+    <p>A hardware-implemented multi-layer perceptron (MLP) neural network in Verilog for character recognition using EMNIST and MNIST datasets.</p>
+
+    <h2>MOVe – Math Ops in VErilog</h2>
+    <table>
+      <tr>
+        <td>
+          <a href="https://github.com/Mummanajagadeesh/cordic-algorithm-verilog">
+            <img src="https://raw.githubusercontent.com/Mummanajagadeesh/Mummanajagadeesh/main/repos/cordic-algorithm-verilog-dark.svg" alt="CORDIC Algorithm GitHub repo">
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/Mummanajagadeesh/systolic-array-matrix-multiplication">
+            <img src="https://raw.githubusercontent.com/Mummanajagadeesh/Mummanajagadeesh/main/repos/systolic-array-matrix-multiplication-dark.svg" alt="Systolic Array GitHub repo">
+          </a>
+        </td>
+      </tr>
+    </table>
+
+    <ul>
+      <li><strong>CORDIC Algorithm (Verilog)</strong> – Efficient hardware-based calculation of sine, cosine, tangent, square root, magnitude, and more using CORDIC techniques.</li>
+      <li><strong>Systolic Array Matrix Multiplication</strong> – Parallel matrix multiplication in Verilog using systolic arrays for optimized performance.</li>
+    </ul>
+
+    <h2>Project Overview</h2>
+    <p><strong>Duration:</strong> Individual, Ongoing</p>
+    <p><strong>Tools:</strong> Verilog (Icarus Verilog, Xilinx Vivado) | Python (OpenCV, NumPy, Tkinter) | Scripting (TCL, Perl)</p>
+
+    <ul>
+      <li><strong>Designed <code>image processing algorithms</code> (e.g., edge detection, geometric & color transforms, noise reduction) in Verilog, utilizing <code>hardware optimized math</code> techniques to maximize computational efficiency. These algorithms were fine-tuned for <code>low-latency</code> preprocessing in embedded vision SoCs.</strong></li>
+      <li><strong>Implemented a <code>64-bit 3-layer perceptron</code> (<code>MLP 784-256-128-62</code>) for Extended-MNIST Character Recognition (<code>62 classes, ∼124k samples</code>) using an FSM-controlled neural network in Verilog. This implementation achieved <code>&gt;90% training accuracy</code> (<code>&gt;75% simulation accuracy</code>) with <code>~1.5s inference latency</code> (in simulation). A full end-to-end preprocessing and inference workflow was developed.</strong></li>
+      <li><strong>Automated model <code>inference</code> and <code>performance metric</code> evaluation via Tcl/Perl scripts (executing Python and Icarus Verilog commands). Additionally, a real-time Tkinter GUI was created for test user input.</strong></li>
+      <li><strong>Currently working on Object Detection using Shallow CNNs on the <code>Pascal VOC</code> dataset.</strong></li>
+    </ul>
+  </div>
+
+  <script>
+    function toggleTheme() {
+      const root = document.documentElement;
+      const currentBg = getComputedStyle(root).getPropertyValue('--bg-color').trim();
+      const darkImgs = document.querySelectorAll('img[src*="dark.svg"]');
+      const lightImgs = document.querySelectorAll('img[src*="light.svg"]');
+
+      if (currentBg === '#0d1117') {
+        root.style.setProperty('--bg-color', '#ffffff');
+        root.style.setProperty('--text-color', '#000000');
+        darkImgs.forEach(img => {
+          img.src = img.src.replace('dark.svg', 'light.svg');
+        });
+      } else {
+        root.style.setProperty('--bg-color', '#0d1117');
+        root.style.setProperty('--text-color', '#c9d1d9');
+        lightImgs.forEach(img => {
+          img.src = img.src.replace('light.svg', 'dark.svg');
+        });
+      }
+    }
+  </script>
+</body>
+</html>
