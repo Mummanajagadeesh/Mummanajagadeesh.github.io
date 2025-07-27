@@ -180,7 +180,7 @@
     </h1>
 
 
-    <blockquote><p><strong>NeVer ImProVe-d — just MOVe-d on ¯\_(ツ)_/¯</strong></p></blockquote>
+    <blockquote><p><strong>" I tried to ImProVe, but NeVer really did — so I MOVe-d on ¯\_(ツ)_/¯ "</strong></p></blockquote>
 
     <table>
       <tr>
@@ -204,25 +204,56 @@
     <p>A hardware-implemented multi-layer perceptron (MLP) neural network in Verilog for character recognition using EMNIST and MNIST datasets.</p>
 
     <h2>MOVe – Math Ops in VErilog</h2>
-    <table>
-      <tr>
-        <td>
-          <a href="https://github.com/Mummanajagadeesh/cordic-algorithm-verilog">
-            <img src="https://raw.githubusercontent.com/Mummanajagadeesh/Mummanajagadeesh/main/repos/cordic-algorithm-verilog-dark.svg" alt="CORDIC Algorithm GitHub repo">
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/Mummanajagadeesh/systolic-array-matrix-multiplication">
-            <img src="https://raw.githubusercontent.com/Mummanajagadeesh/Mummanajagadeesh/main/repos/systolic-array-matrix-multiplication-dark.svg" alt="Systolic Array GitHub repo">
-          </a>
-        </td>
-      </tr>
-    </table>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Mummanajagadeesh/cordic-algorithm-verilog">
+        <img src="https://raw.githubusercontent.com/Mummanajagadeesh/Mummanajagadeesh/main/repos/cordic-algorithm-verilog-dark.svg" alt="CORDIC Algorithm GitHub repo">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Mummanajagadeesh/systolic-array-matrix-multiplication">
+        <img src="https://raw.githubusercontent.com/Mummanajagadeesh/Mummanajagadeesh/main/repos/systolic-array-matrix-multiplication-dark.svg" alt="Systolic Array GitHub repo">
+      </a>
+    </td>
+  </tr>
+</table>
 
-    <ul>
-      <li><strong>CORDIC Algorithm (Verilog)</strong> – Efficient hardware-based calculation of sine, cosine, tangent, square root, magnitude, and more using CORDIC techniques.</li>
-      <li><strong>Systolic Array Matrix Multiplication</strong> – Parallel matrix multiplication in Verilog using systolic arrays for optimized performance.</li>
-    </ul>
+<!-- Third item displayed separately -->
+<div>
+  <a href="https://github.com/Mummanajagadeesh/alternate-numerical-notations-for-riscv">
+    <img src="https://raw.githubusercontent.com/Mummanajagadeesh/Mummanajagadeesh/main/repos/alternate-numerical-notations-for-riscv-dark.svg" alt="Alternate Numerical Notations GitHub repo">
+  </a>
+</div>
+
+
+<ul>
+  <li>
+    <p><strong>CORDIC Algorithm</strong> – Implements Coordinate Rotation Digital Computer (CORDIC) algorithms in Verilog for efficient hardware-based calculation of sine, cosine, tangent, square root, magnitude, and more.</p>
+  </li>
+  <li>
+    <p><strong>Systolic Array Matrix Multiplication</strong> – Verilog implementation of matrix multiplication using systolic arrays to enable parallel computation and hardware-level performance optimization. Each processing element leverages a Multiply-Accumulate (MAC) unit for core operations.</p>
+  </li>
+  <li>
+    <p><strong>Multiply-Accumulate Unit</strong> – The MAC unit uses Booth’s algorithm for efficient signed multiplication and a Kogge-Stone adder for fast, parallel addition. Booth reduces operation count by encoding the multiplier, while Kogge-Stone ensures low-latency summation through parallel carry computation. Together, they enable compute-heavy multiply-accumulate operations in a compact and optimized form.</p>
+  </li>
+  <li>
+    <p><strong>Posit Arithmetic (Python)</strong> – Currently using fixed-point arithmetic; considering Posit as an alternative to IEEE 754 for better precision and dynamic range. Still working through the trade-off.</p>
+  </li>
+</ul>
+
+<br>
+
+    <p><strong>Hardware Utilities</strong> – Supporting Verilog Modules</p>
+
+      <ul>
+        <li>
+          <p><strong>RAM1KB</strong> – A 1KB (1024 x 8-bit) memory module in Verilog with write-once locking for even addresses. Includes a randomized testbench.</p>
+        </li>
+        <li>
+          <p><strong>FIFO Buffer</strong> – Not started. Planned as a synchronous FIFO with fixed depth, single clock domain, and standard full/empty flag logic.</p>
+        </li>
+      </ul>
 
     <h2>Project Overview</h2>
     <h3>
@@ -237,7 +268,7 @@
       <li><strong>Designed <code>image processing algorithms</code> (e.g., edge detection, geometric & color transforms, noise reduction) in Verilog, utilizing <code>hardware optimized math</code> techniques to maximize computational efficiency. These algorithms were fine-tuned for <code>low-latency</code> preprocessing in embedded vision SoCs.</strong></li>
       <li><strong>Implemented a <code>64-bit 3-layer perceptron</code> (<code>MLP 784-256-128-62</code>) for Extended-MNIST Character Recognition (<code>62 classes, ∼124k samples</code>) using an FSM-controlled neural network in Verilog. This implementation achieved <code>&gt;90% training accuracy</code> (<code>&gt;75% simulation accuracy</code>) with <code>~1.5s inference latency</code> (in simulation). A full end-to-end preprocessing and inference workflow was developed.</strong></li>
       <li><strong>Automated model <code>inference</code> and <code>performance metric</code> evaluation via Tcl/Perl scripts (executing Python and Icarus Verilog commands). Additionally, a real-time Tkinter GUI was created for test user input.</strong></li>
-      <li><strong>Currently working on Object Detection using Shallow CNNs on the <code>Pascal VOC</code> dataset.</strong></li>
+      <li><strong>Now working on a lightweight CNN accelerator for <code>image classification</code> on <code>CIFAR-10</code> with a focus on making it hardware-friendly</strong></li>
     </ul>
   </div>
 
