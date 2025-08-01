@@ -532,7 +532,7 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
 &lt;/table>
 &lt;hr>
 &lt;h4 id="project-overview">&lt;strong>Project Overview&lt;/strong>&lt;/h4>
-&lt;p>This project presents a novel, fully hardware-based neural network inference pipeline in Verilog, targeting the &lt;code>62-class&lt;/code> EMNIST dataset (digits + upper/lowercase letters). This project provides two separate implementations: one using IEEE 754 single-precision floating-point arithmetic, and another using 64-bit fixed-point arithmetic. Both versions are designed without relying on external IP cores.&lt;/p></description></item><item><title/><link>https://mummanajagadeesh.github.io/projects/isro-anav/challenge/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/isro-anav/challenge/</guid><description>&lt;blockquote>
+&lt;p>This project presents a novel, fully hardware-based neural network inference pipeline in Verilog, targeting the 62-class EMNIST dataset (digits + upper/lowercase letters). It includes two separate implementations: one using IEEE 754 single-precision floating-point arithmetic, and another using 64-bit fixed-point arithmetic. Both versions are designed without relying on external IP cores and are built entirely using free and open-source tools.&lt;/p></description></item><item><title/><link>https://mummanajagadeesh.github.io/projects/isro-anav/challenge/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/isro-anav/challenge/</guid><description>&lt;blockquote>
 &lt;p>&lt;strong>For complete official details and documentation, visit the &lt;a href="https://www.ursc.gov.in/IRoC-U2025/"
 
 
@@ -1069,8 +1069,8 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> WRITE_DATA: &lt;span style="color:#66d9ef">begin&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> sda_out &lt;span style="color:#f92672">&amp;lt;=&lt;/span> data_out[counter]; &lt;span style="color:#75715e">// Send each bit of data_out on SDA
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span> write_enable &lt;span style="color:#f92672">&amp;lt;=&lt;/span> &lt;span style="color:#ae81ff">1&lt;/span>; &lt;span style="color:#f92672">//&lt;/span> Enable SDA to drive data
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">end&lt;/span>
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span> write_enable &lt;span style="color:#f92672">&amp;lt;=&lt;/span> &lt;span style="color:#ae81ff">1&lt;/span>; &lt;span style="color:#75715e">// Enable SDA to drive data
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span> &lt;span style="color:#66d9ef">end&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> 
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> SEND_ACK2: &lt;span style="color:#66d9ef">begin&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> sda_out &lt;span style="color:#f92672">&amp;lt;=&lt;/span> &lt;span style="color:#ae81ff">0&lt;/span>; &lt;span style="color:#75715e">// Send ACK (low) after receiving data
@@ -1750,4 +1750,4 @@ The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p><
 &lt;/h5>
 &lt;h5 id="verilog-hdl-toolkit-for-image-processing-and-pattern-recognition">Verilog HDL Toolkit for Image Processing and Pattern Recognition&lt;/h5>
 &lt;p>&lt;strong>Duration:&lt;/strong> Individual, Ongoing&lt;br>
-&lt;strong>Tools:&lt;/strong> Verilog (Icarus Verilog, Xilinx Vivado) | C++ &amp;amp; Python (OpenCV, NumPy, Tkinter) | Scripting (TCL. Perl)&lt;/p></description></item></channel></rss>
+&lt;strong>Tools:&lt;/strong> Verilog (Icarus Verilog) | C++ &amp;amp; Python (OpenCV, NumPy, Tkinter) | Scripting (TCL. Perl)&lt;/p></description></item></channel></rss>
