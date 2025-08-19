@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Solver Comparison on Jagadeesh Mummana | Portfolio</title><link>https://mummanajagadeesh.github.io/tags/solver-comparison/</link><description>Recent content in Solver Comparison on Jagadeesh Mummana | Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 18 Mar 2025 05:30:00 +0000</lastBuildDate><atom:link href="https://mummanajagadeesh.github.io/tags/solver-comparison/index.xml" rel="self" type="application/rss+xml"/><item><title>Kociemba’s Algorithm – The Two-Phase Breakthrough #PID1.5</title><link>https://mummanajagadeesh.github.io/blog/kociembas-alg-the-2-phase-breakthrough/</link><pubDate>Tue, 18 Mar 2025 05:30:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/blog/kociembas-alg-the-2-phase-breakthrough/</guid><description>&lt;p>Kociemba’s algorithm revolutionizes Rubik’s Cube solving by efficiently navigating the immense complexity of the cube’s state space using advanced mathematical tools from &lt;strong>group theory&lt;/strong> and &lt;strong>heuristic search&lt;/strong>. This two-phase method strikes a balance between &lt;strong>tractability&lt;/strong> and &lt;strong>optimality&lt;/strong>, making it a cornerstone of computational puzzle solving.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solver Comparison on Jagadeesh Mummana | Portfolio</title>
+    <link>http://localhost:1313/tags/solver-comparison/</link>
+    <description>Recent content in Solver Comparison on Jagadeesh Mummana | Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Mar 2025 05:30:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/solver-comparison/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kociemba’s Algorithm – The Two-Phase Breakthrough #PID1.5</title>
+      <link>http://localhost:1313/blog/kociembas-alg-the-2-phase-breakthrough/</link>
+      <pubDate>Tue, 18 Mar 2025 05:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/kociembas-alg-the-2-phase-breakthrough/</guid>
+      <description>&lt;p&gt;Kociemba’s algorithm revolutionizes Rubik’s Cube solving by efficiently navigating the immense complexity of the cube’s state space using advanced mathematical tools from &lt;strong&gt;group theory&lt;/strong&gt; and &lt;strong&gt;heuristic search&lt;/strong&gt;. This two-phase method strikes a balance between &lt;strong&gt;tractability&lt;/strong&gt; and &lt;strong&gt;optimality&lt;/strong&gt;, making it a cornerstone of computational puzzle solving.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

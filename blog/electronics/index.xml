@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Electronics on Jagadeesh Mummana | Portfolio</title><link>https://mummanajagadeesh.github.io/blog/electronics/</link><description>Recent content in Electronics on Jagadeesh Mummana | Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 10 Jun 2025 05:30:00 +0000</lastBuildDate><atom:link href="https://mummanajagadeesh.github.io/blog/electronics/index.xml" rel="self" type="application/rss+xml"/><item><title>Sensors in Robotics: How Ultrasonic, LiDAR, and IMU Work</title><link>https://mummanajagadeesh.github.io/blog/sensors-in-robotics/</link><pubDate>Tue, 10 Jun 2025 05:30:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/blog/sensors-in-robotics/</guid><description>&lt;p>Sensors are to robots what &lt;strong>eyes, ears, and skin&lt;/strong> are to humans—but with far fewer limits. While we rely on just five senses, robots can be equipped with many more, &lt;strong>sensing distances, movement, vibrations, orientation, light intensity, and even chemical properties&lt;/strong>. These sensors form the bridge between the digital intelligence of a robot and the physical world it operates in.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electronics on Jagadeesh Mummana | Portfolio</title>
+    <link>http://localhost:1313/blog/electronics/</link>
+    <description>Recent content in Electronics on Jagadeesh Mummana | Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Jun 2025 05:30:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/electronics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sensors in Robotics: How Ultrasonic, LiDAR, and IMU Work</title>
+      <link>http://localhost:1313/blog/sensors-in-robotics/</link>
+      <pubDate>Tue, 10 Jun 2025 05:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/sensors-in-robotics/</guid>
+      <description>&lt;p&gt;Sensors are to robots what &lt;strong&gt;eyes, ears, and skin&lt;/strong&gt; are to humans—but with far fewer limits. While we rely on just five senses, robots can be equipped with many more, &lt;strong&gt;sensing distances, movement, vibrations, orientation, light intensity, and even chemical properties&lt;/strong&gt;. These sensors form the bridge between the digital intelligence of a robot and the physical world it operates in.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Proofs on Jagadeesh Mummana | Portfolio</title><link>https://mummanajagadeesh.github.io/tags/proofs/</link><description>Recent content in Proofs on Jagadeesh Mummana | Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 25 Feb 2025 05:30:00 +0000</lastBuildDate><atom:link href="https://mummanajagadeesh.github.io/tags/proofs/index.xml" rel="self" type="application/rss+xml"/><item><title>The Mathematics Behind the Rubik's Cube #PID1.3</title><link>https://mummanajagadeesh.github.io/blog/mathematics-behind-rubiks-cube/</link><pubDate>Tue, 25 Feb 2025 05:30:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/blog/mathematics-behind-rubiks-cube/</guid><description>&lt;p>The Rubik’s Cube is not just a puzzle; it’s a deep mathematical object grounded in group theory, combinatorics, and geometry. Understanding the math behind it allows us to grasp why it has 43 quintillion possible states, how we categorize moves, and why some solutions are more efficient than others.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proofs on Jagadeesh Mummana | Portfolio</title>
+    <link>http://localhost:1313/tags/proofs/</link>
+    <description>Recent content in Proofs on Jagadeesh Mummana | Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Feb 2025 05:30:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/proofs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Mathematics Behind the Rubik&#39;s Cube #PID1.3</title>
+      <link>http://localhost:1313/blog/mathematics-behind-rubiks-cube/</link>
+      <pubDate>Tue, 25 Feb 2025 05:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/mathematics-behind-rubiks-cube/</guid>
+      <description>&lt;p&gt;The Rubik’s Cube is not just a puzzle; it’s a deep mathematical object grounded in group theory, combinatorics, and geometry. Understanding the math behind it allows us to grasp why it has 43 quintillion possible states, how we categorize moves, and why some solutions are more efficient than others.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

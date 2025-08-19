@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GDSII on Jagadeesh Mummana | Portfolio</title><link>https://mummanajagadeesh.github.io/tags/gdsii/</link><description>Recent content in GDSII on Jagadeesh Mummana | Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 08 May 2025 05:30:00 +0000</lastBuildDate><atom:link href="https://mummanajagadeesh.github.io/tags/gdsii/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction to VLSI Design Flow: RTL to GDSII</title><link>https://mummanajagadeesh.github.io/blog/vlsi-design-flow/</link><pubDate>Thu, 08 May 2025 05:30:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/blog/vlsi-design-flow/</guid><description>&lt;p>Wonder why AI, modern smartphones, and countless digital devices have become so powerful yet compact? The secret lies in the ability to pack billions of transistors into tiny silicon chips — a feat accomplished through &lt;strong>Very Large-Scale Integration (VLSI)&lt;/strong>. At the core of this accomplishment is a complex, multi-step design flow that transforms abstract hardware concepts into a physical chip ready for fabrication.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GDSII on Jagadeesh Mummana | Portfolio</title>
+    <link>http://localhost:1313/tags/gdsii/</link>
+    <description>Recent content in GDSII on Jagadeesh Mummana | Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 May 2025 05:30:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gdsii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to VLSI Design Flow: RTL to GDSII</title>
+      <link>http://localhost:1313/blog/vlsi-design-flow/</link>
+      <pubDate>Thu, 08 May 2025 05:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/vlsi-design-flow/</guid>
+      <description>&lt;p&gt;Wonder why AI, modern smartphones, and countless digital devices have become so powerful yet compact? The secret lies in the ability to pack billions of transistors into tiny silicon chips — a feat accomplished through &lt;strong&gt;Very Large-Scale Integration (VLSI)&lt;/strong&gt;. At the core of this accomplishment is a complex, multi-step design flow that transforms abstract hardware concepts into a physical chip ready for fabrication.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogging on Jagadeesh Mummana | Portfolio</title><link>https://mummanajagadeesh.github.io/blog/blogging/</link><description>Recent content in Blogging on Jagadeesh Mummana | Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 05:30:00 +0000</lastBuildDate><atom:link href="https://mummanajagadeesh.github.io/blog/blogging/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started with Hugo: A Step-by-Step Guide</title><link>https://mummanajagadeesh.github.io/blog/getting-started-with-hugo/</link><pubDate>Sat, 01 Mar 2025 05:30:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/blog/getting-started-with-hugo/</guid><description>&lt;p>Hugo is a fast, flexible, and open-source static site generator that allows you to build websites with ease. Originally popular for blogging, Hugo’s versatility makes it ideal for creating a wide range of sites — from personal portfolios and academic project showcases to documentation hubs and even e-commerce sites. Whether you’re building a professional portfolio, a research site to share your academic work, or a personal blog, Hugo has you covered.&lt;/p></description></item><item><title>Why Blog in 2025? (And How to Get Started)</title><link>https://mummanajagadeesh.github.io/blog/why-blog-in-2025/</link><pubDate>Fri, 10 Jan 2025 05:30:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/blog/why-blog-in-2025/</guid><description>&lt;!-- ##### **Why Blog in 2025? (And How to Get Started)** 🚀 -->
-&lt;p>In 2025, with the internet brimming with TikToks, reels, and AI-generated articles, you might wonder—&lt;strong>is blogging still worth it?&lt;/strong>&lt;br>
-The answer is a resounding &lt;strong>YES&lt;/strong>, and here’s why.&lt;/p></description></item><item><title>Hello World!! (Why I Built This Blog)</title><link>https://mummanajagadeesh.github.io/blog/hello-world/</link><pubDate>Fri, 03 Jan 2025 05:30:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/blog/hello-world/</guid><description>&lt;!-- ### Welcome to My Blog! 🚀   -->
-&lt;p>Hello, and thank you for visiting. My name is &lt;strong>Jagadeesh&lt;/strong>, and this blog is a personal and professional record of my journey through college, projects, and the experiences that continue to shape my interests and aspirations.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogging on Jagadeesh Mummana | Portfolio</title>
+    <link>http://localhost:1313/blog/blogging/</link>
+    <description>Recent content in Blogging on Jagadeesh Mummana | Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Mar 2025 05:30:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with Hugo: A Step-by-Step Guide</title>
+      <link>http://localhost:1313/blog/getting-started-with-hugo/</link>
+      <pubDate>Sat, 01 Mar 2025 05:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/getting-started-with-hugo/</guid>
+      <description>&lt;p&gt;Hugo is a fast, flexible, and open-source static site generator that allows you to build websites with ease. Originally popular for blogging, Hugo’s versatility makes it ideal for creating a wide range of sites — from personal portfolios and academic project showcases to documentation hubs and even e-commerce sites. Whether you’re building a professional portfolio, a research site to share your academic work, or a personal blog, Hugo has you covered.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why Blog in 2025? (And How to Get Started)</title>
+      <link>http://localhost:1313/blog/why-blog-in-2025/</link>
+      <pubDate>Fri, 10 Jan 2025 05:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/why-blog-in-2025/</guid>
+      <description>&lt;!-- ##### **Why Blog in 2025? (And How to Get Started)** 🚀   --&gt;&#xD;&#xA;&lt;p&gt;In 2025, with the internet brimming with TikToks, reels, and AI-generated articles, you might wonder—&lt;strong&gt;is blogging still worth it?&lt;/strong&gt;&lt;br&gt;&#xA;The answer is a resounding &lt;strong&gt;YES&lt;/strong&gt;, and here’s why.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello World!! (Why I Built This Blog)</title>
+      <link>http://localhost:1313/blog/hello-world/</link>
+      <pubDate>Fri, 03 Jan 2025 05:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/hello-world/</guid>
+      <description>&lt;!-- ### Welcome to My Blog! 🚀   --&gt;&#xD;&#xA;&lt;p&gt;Hello, and thank you for visiting. My name is &lt;strong&gt;Jagadeesh&lt;/strong&gt;, and this blog is a personal and professional record of my journey through college, projects, and the experiences that continue to shape my interests and aspirations.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

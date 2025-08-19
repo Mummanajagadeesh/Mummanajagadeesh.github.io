@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Protocol Comparison on Jagadeesh Mummana | Portfolio</title><link>https://mummanajagadeesh.github.io/tags/protocol-comparison/</link><description>Recent content in Protocol Comparison on Jagadeesh Mummana | Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 24 Mar 2025 05:30:00 +0000</lastBuildDate><atom:link href="https://mummanajagadeesh.github.io/tags/protocol-comparison/index.xml" rel="self" type="application/rss+xml"/><item><title>Demystifying UART, SPI, and I2C: Communication Between Chips</title><link>https://mummanajagadeesh.github.io/blog/communication-between-chips/</link><pubDate>Mon, 24 Mar 2025 05:30:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/blog/communication-between-chips/</guid><description>&lt;p>In both VLSI design and embedded systems, no chip operates in isolation. Whether it&amp;rsquo;s a microcontroller interfacing with sensors, a processor communicating with memory modules, or multiple peripherals synchronizing data, &lt;strong>inter-chip communication&lt;/strong> is fundamental to building reliable and scalable hardware systems.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Protocol Comparison on Jagadeesh Mummana | Portfolio</title>
+    <link>http://localhost:1313/tags/protocol-comparison/</link>
+    <description>Recent content in Protocol Comparison on Jagadeesh Mummana | Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Mar 2025 05:30:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/protocol-comparison/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demystifying UART, SPI, and I2C: Communication Between Chips</title>
+      <link>http://localhost:1313/blog/communication-between-chips/</link>
+      <pubDate>Mon, 24 Mar 2025 05:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/communication-between-chips/</guid>
+      <description>&lt;p&gt;In both VLSI design and embedded systems, no chip operates in isolation. Whether it&amp;rsquo;s a microcontroller interfacing with sensors, a processor communicating with memory modules, or multiple peripherals synchronizing data, &lt;strong&gt;inter-chip communication&lt;/strong&gt; is fundamental to building reliable and scalable hardware systems.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
