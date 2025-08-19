@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Beginner’s Method on Jagadeesh Mummana | Portfolio</title>
-    <link>http://localhost:1313/tags/beginners-method/</link>
-    <description>Recent content in Beginner’s Method on Jagadeesh Mummana | Portfolio</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 12 Feb 2025 05:30:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/beginners-method/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Solving The Rubiks Cube #PID1.2</title>
-      <link>http://localhost:1313/blog/solving-the-rubiks-cube/</link>
-      <pubDate>Wed, 12 Feb 2025 05:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/solving-the-rubiks-cube/</guid>
-      <description>&lt;!-- **Solving the Rubik’s Cube: A Guide to CFOP, Roux, and ZZ Methods** --&gt;&#xD;&#xA;&lt;p&gt;Solving a Rubik’s Cube isn’t just about memorizing algorithms — it’s about understanding how moves affect the pieces. There are several solving methods, each with its own approach. Some prioritize speed, some focus on efficiency or fewer rotations.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Beginner’s Method on Jagadeesh Mummana | Portfolio</title><link>https://mummanajagadeesh.github.io/tags/beginners-method/</link><description>Recent content in Beginner’s Method on Jagadeesh Mummana | Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 12 Feb 2025 05:30:00 +0000</lastBuildDate><atom:link href="https://mummanajagadeesh.github.io/tags/beginners-method/index.xml" rel="self" type="application/rss+xml"/><item><title>Solving The Rubiks Cube #PID1.2</title><link>https://mummanajagadeesh.github.io/blog/solving-the-rubiks-cube/</link><pubDate>Wed, 12 Feb 2025 05:30:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/blog/solving-the-rubiks-cube/</guid><description>&lt;!-- **Solving the Rubik’s Cube: A Guide to CFOP, Roux, and ZZ Methods** -->
+&lt;p>Solving a Rubik’s Cube isn’t just about memorizing algorithms — it’s about understanding how moves affect the pieces. There are several solving methods, each with its own approach. Some prioritize speed, some focus on efficiency or fewer rotations.&lt;/p></description></item></channel></rss>

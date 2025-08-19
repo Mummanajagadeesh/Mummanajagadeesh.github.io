@@ -1,26 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Motivation on Jagadeesh Mummana | Portfolio</title>
-    <link>http://localhost:1313/tags/motivation/</link>
-    <description>Recent content in Motivation on Jagadeesh Mummana | Portfolio</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jan 2025 05:30:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/motivation/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Why Should You Start Solving Puzzles? #PID1.0</title>
-      <link>http://localhost:1313/blog/why-should-you-start-solving-puzzles/</link>
-      <pubDate>Fri, 24 Jan 2025 05:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/why-should-you-start-solving-puzzles/</guid>
-      <description>&lt;!-- ##### Puzzles: More Than Just Fun --&gt;&#xD;&#xA;&lt;p&gt;Whether it&amp;rsquo;s a crossword, Sudoku, or a complex jigsaw, puzzles have a unique way of capturing our attention. But what makes solving them feel so rewarding? Beyond the entertainment, puzzles play a significant role in enhancing cognitive abilities, improving problem-solving skills, and offering a tangible sense of accomplishment.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hello World!! (Why I Built This Blog)</title>
-      <link>http://localhost:1313/blog/hello-world/</link>
-      <pubDate>Fri, 03 Jan 2025 05:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/hello-world/</guid>
-      <description>&lt;!-- ### Welcome to My Blog! 🚀   --&gt;&#xD;&#xA;&lt;p&gt;Hello, and thank you for visiting. My name is &lt;strong&gt;Jagadeesh&lt;/strong&gt;, and this blog is a personal and professional record of my journey through college, projects, and the experiences that continue to shape my interests and aspirations.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Motivation on Jagadeesh Mummana | Portfolio</title><link>https://mummanajagadeesh.github.io/tags/motivation/</link><description>Recent content in Motivation on Jagadeesh Mummana | Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 24 Jan 2025 05:30:00 +0000</lastBuildDate><atom:link href="https://mummanajagadeesh.github.io/tags/motivation/index.xml" rel="self" type="application/rss+xml"/><item><title>Why Should You Start Solving Puzzles? #PID1.0</title><link>https://mummanajagadeesh.github.io/blog/why-should-you-start-solving-puzzles/</link><pubDate>Fri, 24 Jan 2025 05:30:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/blog/why-should-you-start-solving-puzzles/</guid><description>&lt;!-- ##### Puzzles: More Than Just Fun -->
+&lt;p>Whether it&amp;rsquo;s a crossword, Sudoku, or a complex jigsaw, puzzles have a unique way of capturing our attention. But what makes solving them feel so rewarding? Beyond the entertainment, puzzles play a significant role in enhancing cognitive abilities, improving problem-solving skills, and offering a tangible sense of accomplishment.&lt;/p></description></item><item><title>Hello World!! (Why I Built This Blog)</title><link>https://mummanajagadeesh.github.io/blog/hello-world/</link><pubDate>Fri, 03 Jan 2025 05:30:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/blog/hello-world/</guid><description>&lt;!-- ### Welcome to My Blog! 🚀   -->
+&lt;p>Hello, and thank you for visiting. My name is &lt;strong>Jagadeesh&lt;/strong>, and this blog is a personal and professional record of my journey through college, projects, and the experiences that continue to shape my interests and aspirations.&lt;/p></description></item></channel></rss>
