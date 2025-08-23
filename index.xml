@@ -617,88 +617,17 @@ The design enables &lt;strong>parallel computation&lt;/strong> and leverages &lt
 &lt;h4 id="challenge-overview">&lt;strong>Challenge Overview&lt;/strong>&lt;/h4>
 &lt;p>Design and demonstrate an &lt;strong>Autonomous Navigation System for an Aerial Vehicle (ANAV)&lt;/strong> that can function in a simulated Martian environment &lt;strong>without any external navigation aids&lt;/strong> like GNSS, pseudolites, or reflectors.&lt;/p></description></item><item><title/><link>https://mummanajagadeesh.github.io/projects/isro-anav/simulation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/isro-anav/simulation/</guid><description>&lt;h3 id="simulation-of-martian-arena-in-webots-for-autonomous-drone-testing">Simulation of Martian Arena in Webots for Autonomous Drone Testing&lt;/h3>
 &lt;h4 id="introduction">Introduction&lt;/h4>
-&lt;p>To develop and evaluate autonomous drone navigation algorithms in a Mars-like environment, we replicated a Martian surface arena within the Webots simulation platform. This virtual testbed allows us to rigorously test and fine-tune our system before deploying it on physical hardware.&lt;/p></description></item><item><title/><link>https://mummanajagadeesh.github.io/projects/never/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/never/</guid><description>&lt;h2 id="never-neural-network-in-veriloghttpsgithubcommummanajagadeeshnever">&lt;a href="https://github.com/Mummanajagadeesh/NeVer"
-
-
-
-
- target="_blank"
- 
-
-
->NeVer: NEural NEtwork in VERilog&lt;/a>&lt;/h2>
-&lt;h5 id="do-checkout-main-project-improve-image-processing-using-veriloghttpmummanajagadeeshgithubioprojectsimprove">Do Checkout Main Project: &lt;strong>&lt;a href="http://mummanajagadeesh.github.io/projects/improve/"
-
-
-
-
- target="_blank"
- 
-
-
->ImProVe: IMage PROcessing using VErilog&lt;/a>&lt;/strong>&lt;/h5>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>&lt;strong>Name&lt;/strong>&lt;/th>
- &lt;th>NeVer&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>&lt;strong>Description&lt;/strong>&lt;/td>
- &lt;td>NeVer implements a neural network in Verilog for better hardware acceleration of image processing tasks&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;strong>Start&lt;/strong>&lt;/td>
- &lt;td>28 Feb 2025&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;strong>Repository&lt;/strong>&lt;/td>
- &lt;td>&lt;a href="https://github.com/Mummanajagadeesh/NeVer"
-
-
-
-
- target="_blank"
- 
-
-
->NeVer🔗&lt;/a>&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;strong>Type&lt;/strong>&lt;/td>
- &lt;td>Individual&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;strong>Level&lt;/strong>&lt;/td>
- &lt;td>Beginner&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;strong>Skills&lt;/strong>&lt;/td>
- &lt;td>Image Processing, HDL, Computer Vision, Programming, ML&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;strong>Tools Used&lt;/strong>&lt;/td>
- &lt;td>Verilog, Icarus, Perl, TCL, Quartus, Python, NumPy&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;strong>Current Status&lt;/strong>&lt;/td>
- &lt;td>Ongoing (Active)&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;strong>Progress&lt;/strong>&lt;/td>
- &lt;td>- Implemented detection of MNIST digits (0-9) &lt;br> - Added support for EMNIST, enabling classification of 62 character classes &lt;br> - Integrated real-time inference with a Tkinter-based character drawing interface, achieving approx 1.5s latency per prediction in simulation&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;strong>Next Steps&lt;/strong>&lt;/td>
- &lt;td>- Ensure the top module is synthesizable &lt;br> - Optimize the design for parallel processing, leveraging Multiply-Accumulate (MAC) operations &lt;br> - Enhance floating-point multiplication and division support for improved computational efficiency&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;h4 id="project-overview">&lt;strong>Project Overview&lt;/strong>&lt;/h4>
-&lt;p>This project presents a novel, fully hardware-based neural network inference pipeline in Verilog, targeting the &lt;code>62-class&lt;/code> EMNIST dataset (digits + upper/lowercase letters). This project provides two separate implementations: one using IEEE 754 single-precision floating-point arithmetic, and another using 64-bit fixed-point arithmetic. Both versions are designed without relying on external IP cores.&lt;/p></description></item><item><title/><link>https://mummanajagadeesh.github.io/projects/pidc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/pidc/</guid><description>&lt;h2 id="pidc---pid-controller-using-opampshttpsgithubcommummanajagadeeshpidc_ctrl">&lt;a href="https://github.com/Mummanajagadeesh/PIDC_CTRL"
+&lt;p>To develop and evaluate autonomous drone navigation algorithms in a Mars-like environment, we replicated a Martian surface arena within the Webots simulation platform. This virtual testbed allows us to rigorously test and fine-tune our system before deploying it on physical hardware.&lt;/p></description></item><item><title/><link>https://mummanajagadeesh.github.io/projects/never/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/never/</guid><description>&lt;!DOCTYPE html>
+&lt;html lang="en">
+&lt;head>
+ &lt;meta charset="UTF-8">
+ &lt;meta http-equiv="refresh" content="0; url=../improve/never/">
+ &lt;title>Redirecting...&lt;/title>
+&lt;/head>
+&lt;body>
+ &lt;p>If you are not redirected automatically, &lt;a href="../improve/never/">click here&lt;/a>.&lt;/p>
+&lt;/body>
+&lt;/html></description></item><item><title/><link>https://mummanajagadeesh.github.io/projects/pidc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/pidc/</guid><description>&lt;h2 id="pidc---pid-controller-using-opampshttpsgithubcommummanajagadeeshpidc_ctrl">&lt;a href="https://github.com/Mummanajagadeesh/PIDC_CTRL"
 
 
 
@@ -1812,7 +1741,7 @@ The design enables &lt;strong>parallel computation&lt;/strong> and leverages &lt
 &lt;li>&lt;strong>Selection:&lt;/strong> Through performance in the FIITJEE Admission Test&lt;/li>
 &lt;li>&lt;strong>Award:&lt;/strong> Received 100% tuition fee waiver for excelling in the admission test&lt;/li>
 &lt;/ul></description></item><item><title>Search Result</title><link>https://mummanajagadeesh.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/search/</guid><description/></item><item><title>Verilog HDL Toolkit for Image Processing and Pattern Recognition</title><link>https://mummanajagadeesh.github.io/projects/improve/subprojects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mummanajagadeesh.github.io/projects/improve/subprojects/</guid><description>&lt;h5 style="color: #A45D5D; text-decoration: underline;">
- &lt;a href="https://mummanajagadeesh.github.io/projects/improve/summary/" target="_blank" rel="noopener" style="color: inherit; text-decoration: inherit;">
+ &lt;a href="https://github.com/Mummanajagadeesh#:~:text=Verilog%20HDL%20Toolkit%20for%20Image%20Processing%20and%20Neural%20Network%20Acceleration" target="_blank" rel="noopener" style="color: inherit; text-decoration: inherit;">
  QUICK LOOK AT REPOS
  &lt;/a>
 &lt;/h5>
